@@ -1,0 +1,162 @@
+%
+% File checkpoint2.tex
+%
+
+\documentclass[11pt,letterpaper]{article}
+\usepackage{naaclhlt2016}
+\usepackage{times}
+\usepackage{latexsym}
+
+\naaclfinalcopy % Uncomment this line for the final submission
+\def\naaclpaperid{***} %  Enter the naacl Paper ID here
+
+% To expand the titlebox for more authors, uncomment
+% below and set accordingly.
+% \addtolength\titlebox{.5in}    
+
+\newcommand\BibTeX{B{\sc ib}\TeX}
+
+
+\title{Emotion Identification within Text Messages}
+
+% Author information can be set in various styles:
+% For several authors from the same institution:
+% \author{Author 1 \and ... \and Author n \\
+%         Address line \\ ... \\ Address line}
+% if the names do not fit well on one line use
+%         Author 1 \\ {\bf Author 2} \\ ... \\ {\bf Author n} \\
+% For authors from different institutions:
+% \author{Author 1 \\ Address line \\  ... \\ Address line
+%         \And  ... \And
+%         Author n \\ Address line \\ ... \\ Address line}
+% To start a seperate ``row'' of authors use \AND, as in
+% \author{Author 1 \\ Address line \\  ... \\ Address line
+%         \AND
+%         Author 2 \\ Address line \\ ... \\ Address line \And
+%         Author 3 \\ Address line \\ ... \\ Address line}
+% If the title and author information does not fit in the area allocated,
+% place \setlength\titlebox{<new height>} right after
+% at the top, where <new height> can be something larger than 2.25in
+\author{Quincy Davenport \\ {\bf Michael Dobrowolski} \\ {\bf Jeremy Drouillard}
+\\ {\bf Matthew Terwilliger} \\}
+
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\section{Project Description}
+
+Our project is to identify emotions within text. Text messages are personal
+modes of communication with valuable aspects such as emojis, exaggerated
+punctuation (`!?!?', `…', etc.), highly colloquial texting language (`lol',
+`smh', etc.), and relationship indicative contact names. Also, more often than
+not, they are also full conversations between at least two people rather than
+publicized monologues and single statements.
+
+We plan to have a list of 6 possible emotions to use as labels:
+\begin{enumerate}
+    \item{Happy}
+    \item{Content}
+    \item{Indifferent}
+    \item{Confused}
+    \item{Sad}
+    \item{Angry}
+\end{enumerate}
+
+Happiness being positive emotion for some specific reason and contentment being
+positive emotion in general. Indifference is the unstressed absence of emotion.
+Confusion is the stressed absence of emotion, which indicates that it might be
+complemented by another emotion.  Sadness and anger are for negative emotion.
+Sadness is negative emotion not directed at any object, while anger is negative
+emotion with a direct object.
+
+Our project would fall into the category of sentiment analysis. The project
+would further differentiate positive and negative emotion for if there is or
+isn’t an object of the emotion and it would further differentiate neutral
+emotions by polarity. Text messages seem to have more emotional cues, so it
+makes sense to push the boundaries of sentiment analysis a little. 
+
+\pagebreak
+
+\section{Related Work}
+
+Manuscripts must be in two-column format.  Exceptions to the
+two-column format include the title, as well as the 
+authors' names and complete
+addresses (only in the final version, not in the version submitted for review), 
+which must be centered at the top of the first page (see
+the guidelines in Subsection~\ref{ssec:first}), and any full-width
+figures or tables.  Type single-spaced.  Do not number the pages 
+in the camera-ready version.
+Start all pages directly under the top margin.  See the guidelines
+later regarding formatting the first page.
+
+The maximum length of a manuscript is eight (8) pages for the main
+conference, printed single-sided, plus two (2) pages for references
+(see Section~\ref{sec:length} for additional information on the
+maximum number of pages). 
+
+By uncommenting {\small\verb|\naaclfinalcopy|} at the top of this 
+ document, it will compile to produce an example of the camera-ready formatting; by leaving it commented out, the document will be anonymized for initial submission.  When you first create your submission on softconf, please fill in your submitted paper ID where {\small\verb|***|} appears in the {\small\verb|\def\naaclpaperid{***}|} definition at the top.
+
+The review process is double-blind, so do not include any author information (names, addresses) when submitting a paper for review.  
+However, you should maintain space for names and addresses so that they will fit in the final (accepted) version.  The NAACL HLT 2016 \LaTeX\ style will create a titlebox space of 2.5in for you when {\small\verb|\naaclfinalcopy|} is commented out.  
+
+\section{Data Collection}
+
+As the reviewing will be blind, the paper must not include the
+authors' names and affiliations.  Furthermore, self-references that
+reveal the author's identity, e.g., ``We previously showed (Smith,
+1991) ...'' must be avoided. Instead, use citations such as ``Smith
+previously showed (Smith, 1991) ...'' Papers that do not conform to
+these requirements will be rejected without review. In addition,
+please do not post your submissions on the web until after the
+review process is complete (in special cases this is permitted: see 
+the multiple submission policy below).
+
+We will reject without review any papers that do not follow the
+official style guidelines, anonymity conditions and page limits.
+
+\pagebreak
+\section{Method Description}
+Papers that have been or will be submitted to other meetings or
+publications must indicate this at submission time. Authors of
+papers accepted for presentation at NAACL HLT 2016 must notify the
+program chairs by the camera-ready deadline as to whether the paper
+will be presented. All accepted papers must be presented at the
+conference to appear in the proceedings. We will not accept for
+publication or presentation papers that overlap significantly in
+content or results with papers that will be (or have been) published
+elsewhere.
+
+Preprint servers such as arXiv.org and ACL-related workshops that
+do not have published proceedings in the ACL Anthology are not
+considered archival for purposes of submission. Authors must state
+in the online submission form the name of the workshop or preprint
+server and title of the non-archival version.  The submitted version
+should be suitably anonymized and not contain references to the
+prior non-archival version. Reviewers will be told: ``The author(s)
+have notified us that there exists a non-archival previous version
+of this paper with significantly overlapping text. We have approved
+submission under these circumstances, but to preserve the spirit
+of blind review, the current submission does not reference the
+non-archival version.'' Reviewers are free to do what they like with
+this information.
+
+Authors submitting more than one paper to NAACL HLT must ensure
+that submissions do not overlap significantly ($>25\%$) with each other
+in content or results. Authors should not submit short and long
+versions of papers with substantial overlap in their original
+contributions.
+
+\section*{Acknowledgments}
+
+Do not number the acknowledgment section.
+
+\bibliography{checkpoint2}
+\bibliographystyle{naaclhlt2016}
+
+
+\end{document}
