@@ -14,5 +14,13 @@ class conversationEmotionTagger:
 		'''takes a convo and returns a labeled predicition
 		does not require an eTagged input'''
 	def train(self, convo):
-		'''takes list of conversations to train on'''
-
+		'''takes conversation to train on'''
+		user1previousEmotion = "START"
+		user2previousEmotion = "START"
+		for msg in convo:
+			self._emotionConnectionCalculator.train(msg, user1previousEmotion, user2previousEmotion)
+			self._emotionMessageCalculator.train(msg)
+			if msg.user() == 1:
+				user1previousEmotion = msg.eTag()
+			else:
+				user2previousEmotion = msg.eTag()
