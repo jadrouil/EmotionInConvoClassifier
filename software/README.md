@@ -1,2 +1,1 @@
-Source code for our algorithm can be found in src/
-Test can be found in test/
+If you want to develop a GUI you would likely want to use conversationEmotionTagger.py
