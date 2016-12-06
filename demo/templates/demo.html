@@ -1,0 +1,66 @@
+{% extends "base.html" %}
+{% block content %}
+<h1 class="ui header">
+    Emotion Identification Demo
+</h1>
+
+<div class="ui form">
+  <div class="field">
+    <label>Conversation</label>
+    <textarea id="convo" rows=20 style="font-family: Consolas"></textarea>
+    <div>
+        <a id="demo1">Demo 1</a> ::
+        <a id="demo2">Demo 2</a> ::
+        <a id="demo3">Demo 3</a>
+    </div>
+  </div>
+
+  <div class="field">
+      <button id="predict" class="ui button">
+          Predict Emotion
+      </button>
+  </div>
+</div>
+
+<div id="result" class="ui hidden warning message">
+</div>
+
+<script>
+// TODO: actual conversations
+var c1 = [
+{ uid: 1, msg: 'Hello' },
+{ uid: 2, msg: 'How are you?' },
+];
+
+var c2 = [
+{ uid: 1, msg: 'Oh no! Life sucks.' },
+{ uid: 2, msg: 'Sorry :(' },
+];
+
+var c3 = [
+{ uid: 1, msg: 'I just got a 100 on my exam!' },
+{ uid: 2, msg: 'Nice job!' },
+];
+
+$(document).ready(function () {
+    $('#demo1').click(function () {
+        $('#convo').val(JSON.stringify(c1, null, 2));
+    });
+
+    $('#demo2').click(function () {
+        $('#convo').val(JSON.stringify(c2, null, 2));
+    });
+
+    $('#demo3').click(function () {
+        $('#convo').val(JSON.stringify(c3, null, 2));
+    });
+
+    $('#predict').click(function () {
+        var convo = $('#convo').val();
+        $.post('/predict', convo, function (res) {
+            $('#result').html('<strong>Conversation emotion:</strong> ' + res).show();
+        });
+    });
+});
+</script>
+{% endblock %}
