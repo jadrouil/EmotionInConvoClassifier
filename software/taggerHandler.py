@@ -7,9 +7,10 @@ import sys
 
 
 testfile = sys.argv[2]
-trainfile = sys.argv[1]
 
-cet = createConversationEmotionTagger(trainfile)
+conversationTrainfile = sys.argv[1]
+bayesTrainFile = sys.argv[3]
+cet = createConversationEmotionTagger(conversationTrainfile, bayesTrainFile)
 
 
 output = outputter(testfile)

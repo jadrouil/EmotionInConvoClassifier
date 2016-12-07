@@ -1,0 +1,19 @@
+
+============================================================================
+
+                       Autopsy Forensic Browser 
+                  http://www.sleuthkit.org/autopsy/
+                             ver 2.24 
+
+============================================================================
+Evidence Locker: /var/lib/autopsy
+Start Time: Tue Dec  6 15:24:14 2016
+Remote Host: localhost
+Local Port: 9999
+
+Open an HTML browser on the remote host and paste this URL in it:
+
+    http://localhost:9999/autopsy
+
+Keep this process running and use <ctrl-c> to exit
+Can't open log: autopsy.log at /usr/share/autopsy/lib/Print.pm line 383.
