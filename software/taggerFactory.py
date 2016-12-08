@@ -8,14 +8,18 @@ def createConversationEmotionTagger(emotionFile, conversationTrainfile , bayesTr
 
 
 	naiveBayesCalculator = naiveBayes()
-	with open(hotwordsTrainFile) as hotwordsF:
+	hotwordsTrain(hotwordsTrainFile, hotWeight, naiveBayesCalculator)
+	tweetTrain(bayesTrainFile, naiveBayesCalculator, emotions)
+
+	emotionCC = emotionConnectionCalculator()
+	conversationTrain(conversationTrainfile, emotionCC, emotions)
+
+
+def hotwordsTrain(hotwordsFile, hotWeight,naiveBayesCalculator):
+	with open(hotwordsFile) as hotwordsF:
 		for line in hotwordsF:
 			word,emotion,bs = line.split()
 			naiveBayesCalculator.train([instance(emotion, word)] * hotWeight)
-
-	tweetTrain(bayesTrainFile, naiveBayesCalculator, emotions)
-
-
 
 
 #refactor this to train the calculators directly
