@@ -6,11 +6,12 @@ from accuracyTracking import accuracyTracker
 import sys
 
 
-testfile = sys.argv[2]
+testfile = sys.argv[4]
 
 conversationTrainfile = sys.argv[1]
-bayesTrainFile = sys.argv[3]
-cet = createConversationEmotionTagger(conversationTrainfile, bayesTrainFile)
+bayesTrainFile = sys.argv[2]
+hotwordsTrainFile = sys.argv[3]
+cet = createConversationEmotionTagger(conversationTrainfile, bayesTrainFile, hotwordsTrainFile)
 
 
 output = outputter(testfile)
