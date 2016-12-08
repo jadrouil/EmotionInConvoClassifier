@@ -17,6 +17,6 @@ class naiveBayeser:
 	def test(self, instance):
 		sensesAndProbability = self._calculateProbabilities(instance)
 		mostLikelyPrediction = reduce(selectMaxProb, sensesAndProbability, (None,None))
-		assert(mostLikelyPrediction)
+		assert(mostLikelyPrediction[0])
 		return mostLikelyPrediction[0]
 
