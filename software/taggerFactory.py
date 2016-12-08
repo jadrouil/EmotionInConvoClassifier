@@ -1,4 +1,4 @@
-
+from trainers import *
 #returns a fully trained emotion tagger
 def createConversationEmotionTagger(emotionFile, conversationTrainfile , bayesTrainFile, hotwordsTrainFile, hotWeight = 50):
 	emotions = set([])
@@ -15,11 +15,6 @@ def createConversationEmotionTagger(emotionFile, conversationTrainfile , bayesTr
 	conversationTrain(conversationTrainfile, emotionCC, emotions)
 
 
-def hotwordsTrain(hotwordsFile, hotWeight,naiveBayesCalculator):
-	with open(hotwordsFile) as hotwordsF:
-		for line in hotwordsF:
-			word,emotion,bs = line.split()
-			naiveBayesCalculator.train([instance(emotion, word)] * hotWeight)
 
 
 #refactor this to train the calculators directly
