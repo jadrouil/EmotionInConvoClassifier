@@ -1,11 +1,20 @@
 
 #returns a fully trained emotion tagger
-def createConversationEmotionTagger(conversationTrainfile , bayesTrainFile, hotwordsTrainFile, hotWeight = 50):
+def createConversationEmotionTagger(emotionFile, conversationTrainfile , bayesTrainFile, hotwordsTrainFile, hotWeight = 50):
+	emotions = set([])
+	with open(emotionFile) as emotionF:
+		for line in emotionF:
+			emotions.add(line.strip())
+
+
 	naiveBayesCalculator = naiveBayes()
 	with open(hotwordsTrainFile) as hotwordsF:
 		for line in hotwordsF:
 			word,emotion,bs = line.split()
 			naiveBayesCalculator.train([instance(emotion, word)] * hotWeight)
+
+	tweetTrain(bayesTrainFile, naiveBayesCalculator, emotions)
+
 
 
 
