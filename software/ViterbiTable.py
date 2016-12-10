@@ -30,7 +30,7 @@ class ViterbiTable:
 				if totalP > maxP:
 					maxP = totalP
 					backptr = i
-
+		return maxP, backptr
 
 	def _fillCell(self, vCell, lastSentIndex, lastRecvIndex, msg, emc, ecc):
 		for i in range(0, len(self._emotions)):
