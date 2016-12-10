@@ -7,6 +7,13 @@ class ViterbiTable:
 		self._table = []
 		assert(convo)
 
+	def _traceLabel(self, tracingUser, lastEmotionIndex, emotionLabels):
+		for i in range(len(self._convo) - 1, -1):
+			if self._convo[i].user() == tracingUser:
+				emotionLabels[i] = self._emotions[lastEmotionIndex]
+				lastEmotionIndex = self._table[i].backptr(lastEmotionIndex)
+
+		
 	def initialize(self, ecc, emc):
 		self._table.append(ViterbiCell())
 		self._table.append(ViterbiCell())
@@ -39,4 +46,23 @@ class ViterbiTable:
 				self._fillCell(newCell, user2msgIndex, user1msgIndex)
 				user2msgIndex = i
 			self._table.append(newCell)
-				
+
+	def sequence(self):
+		emotionLabels = [None] * len(self._convo)
+		emotionIndex = self._selectMostLikely(self._table[-1])
+		lastEmotionIndex = self._table[-1].backptr(emotionIndex)
+		emotionLabels[-1] = self._emotions[emotionIndex]
+		tracingUser = self._convo[-1].user()
+		
+		self._traceLabel(tracingUser, lastEmotionIndex, emotionLabels)
+
+		for i in range(len(self._convo) - 1, -1):
+			if self._convo[i].user() != tracingUser:
+				emotionIndex = self._selectMostLikely(self._table[i])
+				lastEmotionIndex = self._table[i].backptr(emotionIndex)
+				emotionLabels[i] = self._emotions[emotionIndex]
+				tracingUser = self._convo[i].user()
+				break
+		self._traceLabel(tracingUser, lastEmotionIndex, emotionLabels)
+		return emotionLabels
+		
