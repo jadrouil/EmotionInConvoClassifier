@@ -12,8 +12,32 @@ class ViterbiTable:
 			if self._convo[i].user() == tracingUser:
 				emotionLabels[i] = self._emotions[lastEmotionIndex]
 				lastEmotionIndex = self._table[i].backptr(lastEmotionIndex)
+	
+	def _selectMaximizingRecvP(self, ecc, lastRecvIndex, emotion):
+		psForEmotionRecv = [ecc.pGivenReceived(prevE, emotion) for prevE in self._emotions]
+		return max(psForEmotionRecv)
+	
+	def _selectMaxCombo(self, lastSentIndex, lastRecvIndex, emotion, ecc):
+		maxP = None
+		backptr = None
+		for i in range(0, len(self._emotions)):
+			sentProb = self._table[lastSentIndex].score()
+			pGivenSent = ecc.pGivenSent(emotion, self._emotions[i]) 
+			for j in range(0, len(self._emotions)):
+				recvProb = self._table[lastSentIndex].score()
+				pGivenRecv = ecc.pGivenReceived(emotion, self._emotions[j])
+				totalP = sentProb + pGivenSent + recvProb + pGivenRecv 
+				if totalP > maxP:
+					maxP = totalP
+					backptr = i
 
-		
+
+	def _fillCell(self, vCell, lastSentIndex, lastRecvIndex, msg, emc, ecc):
+		for i in range(0, len(self._emotions)):
+			pEmotion = emc.test(msg, self._emotions[i])
+			maxP, backptr = self._selectMaxCombo(lastSentIndex, lastRecvIndex,self._emotions[i], ecc)
+			vCell.addRowToCell(pEmotion + maxP, backptr)
+
 	def initialize(self, ecc, emc):
 		self._table.append(ViterbiCell())
 		self._table.append(ViterbiCell())
@@ -39,11 +63,12 @@ class ViterbiTable:
 	def iterate(self, user1msgIndex,user2msgIndex, ecc, emc):
 		for i in range(2, len(self._convo)):
 			newCell = ViterbiCell()
+			msg = instance(self._convo[i].content())
 			if self._convo[i].user() == 1:
-				self._fillCell(newCell, user1msgIndex, user2msgIndex)
+				self._fillCell(newCell, user1msgIndex, user2msgIndex, msg, emc, ecc)
 				user1msgIndex = i
 			else:
-				self._fillCell(newCell, user2msgIndex, user1msgIndex)
+				self._fillCell(newCell, user2msgIndex, user1msgIndex, msg, emc, ecc)
 				user2msgIndex = i
 			self._table.append(newCell)
 
