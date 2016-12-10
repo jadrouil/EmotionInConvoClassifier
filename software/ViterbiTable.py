@@ -24,6 +24,6 @@ class ViterbiTable:
 			inst = instance(None, self._convo[1].content)
 			pEmotion = emc.test(inst, self._emotions[i])
 			pEmotionSent = ecc.pGivenSent(self._emotions[i], "START")
-			pEmotionRecv = self._maximizingRecvP(ecc)
+			pEmotionRecv = self._maximizingRecvP(ecc, user1msgIndex)
 			self._table[0].addRowToCell(pEmotion + pEmotionSent + pEmotionRecv, -1)
 		return user1msgIndex,user2msgindex
