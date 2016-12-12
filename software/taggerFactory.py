@@ -1,7 +1,8 @@
 from trainers import *
 from naiveBayeser import *
+from emotionConnectionCalculator import *
 #returns a fully trained emotion tagger
-def createConversationEmotionTagger(emotionFile, conversationTrainfile , bayesTrainFile, hotwordsTrainFile, hotWeight = 50):
+def createConversationEmotionTagger(emotionFile = "../datasets/emotions.txt", conversationTrainfile = "../datasets/conversations.txt", bayesTrainFile = "../datasets/bayesTrain.txt", hotwordsTrainFile = "../datasets/hotwords.txt", ):
 	emotions = set([])
 	with open(emotionFile) as emotionF:
 		for line in emotionF:
@@ -9,7 +10,7 @@ def createConversationEmotionTagger(emotionFile, conversationTrainfile , bayesTr
 
 
 	naiveBayesCalculator = naiveBayeser()
-	hotwordsTrain(hotwordsTrainFile, hotWeight, naiveBayesCalculator)
+	hotwordsTrain(hotwordsTrainFile, naiveBayesCalculator)
 	tweetTrain(bayesTrainFile, naiveBayesCalculator, emotions)
 
 	emotionCC = emotionConnectionCalculator()
