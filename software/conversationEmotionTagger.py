@@ -14,9 +14,8 @@ class conversationEmotionTagger:
 		self._emotions = emotions
 
 	def test(self, convo):
-		prevSent = prevRecv = -1
-		vTable = ViterbiTable(convo, emotions)
+		vTable = ViterbiTable(convo, self._emotions)
 		lastUser1Index, lastUser2Index = vTable.initialize(self._emotionConnectionCalculator, self._emotionMessageCalculator)
-		vTable.iterate( astUser1Index, lastUser2Index, self._emotionConnectionCalculator, self._emotionMessageCalculator)
+		vTable.iterate( lastUser1Index, lastUser2Index, self._emotionConnectionCalculator, self._emotionMessageCalculator)
 		labeledConversation = vTable.sequence()
 		return labeledConversation
