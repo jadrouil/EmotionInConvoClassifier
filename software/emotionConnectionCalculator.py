@@ -14,11 +14,11 @@ class emotionConnectionCalculator:
 		self._countSentEmotion[prevSentEmotion][emotion] += 1.0
 		self._totalSentEmotion[prevSentEmotion] += 1.0
 
-	def trainRecieve(self, emotion, prevRecvEmotion):
+	def trainReceive(self, emotion, prevRecvEmotion):
 		self._countRecvEmotion[prevRecvEmotion][emotion] += 1.0
 		self._totalRecvEmotion[prevRecvEmotion] += 1.0
 
 	def pGivenSent(self, emotion, prevSentEmotion):
-		return math.log(self._countSentEmotion[prevSentEmotion][emotion] / self._totalSentEmotion[prevSentEmotion])
+		return math.log((self._countSentEmotion[prevSentEmotion][emotion] + 1.0) / (self._totalSentEmotion[prevSentEmotion] + len(self._countSentEmotion[prevSentEmotion])))
 	def pGivenReceived(self, emotion, prevRecvEmotion):
-		return math.log(self._countRecvEmotion[prevRecvEmotion][emotion] / self._totalRecvEmotion[prevRecvEmotion])
+		return math.log((self._countRecvEmotion[prevRecvEmotion][emotion]  + 1.0)/ (self._totalRecvEmotion[prevRecvEmotion] + len(self._countRecvEmotion[prevRecvEmotion]) ))
