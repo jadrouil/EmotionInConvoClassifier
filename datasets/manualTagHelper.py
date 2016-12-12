@@ -23,7 +23,10 @@ with open(sys.argv[2], 'w') as outfile:
         raw_messages = raw_conversations[i].split('\n')
         counter = 0
         messages = []
-        for raw_message in raw_messages:
+        j = 0
+        while j < len(raw_messages):
+            raw_message = raw_messages[j]
+
             if len(raw_message) <= 0:
                 continue #garbage
 
@@ -45,20 +48,33 @@ with open(sys.argv[2], 'w') as outfile:
                     print '{}. {}'.format(ecounter, e)
                     ecounter += 1
 
-                tag = input('Select: ')
+                tag = raw_input('Select: ')
 
-                if tag < ecounter and tag >= 0:
-                    tag = emotions[tag]
+                try:
+                    tag = int(tag)
+                    if tag < ecounter and tag >= 0:
+                        tag = emotions[tag]
+
+                        messages.append({
+                          'user': user,
+                          'message_id': message_id,
+                          'message': message,
+                          'tag': tag,
+                        })
+
+
+                        j += 1
+                        conversations.append(messages)
+
+                        break
+                except ValueError:
+                    pass
+                except TypeError:
+                    pass
+
+                if tag == 'b':
+                    j = j - 1
+                    del messages[-1]
                     break
-
-
-            messages.append({
-              'user': user,
-              'message_id': message_id,
-              'message': message,
-              'tag': tag,
-            })
-
-            conversations.append(messages)
 
         outfile.write(json.dumps(conversations))
