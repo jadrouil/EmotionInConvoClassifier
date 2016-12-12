@@ -18,3 +18,7 @@ nbc.train([inst])
 inst = instance(None, "word and not")
 
 assert(nbc.test(inst, "angry") < nbc.test(inst, "content"))
+
+inst = instance(None, "badword badword aaaa")
+
+assert(nbc.test(inst, "angry") > nbc.test(inst, "content"))
