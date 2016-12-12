@@ -36,11 +36,6 @@ with open(sys.argv[2], 'w') as outfile:
             user, message    = raw_message.split(': ')
             user, message_id = user.split('.')
 
-            # keep track of 'A.271' etc.
-            counter += 1
-            if counter != int(message_id):
-                print('Warn: missed a message?')
-
             tag = None
             while True:
                 ecounter = 0
@@ -62,9 +57,7 @@ with open(sys.argv[2], 'w') as outfile:
                           'tag': tag,
                         })
 
-
                         j += 1
-                        conversations.append(messages)
 
                         break
                 except ValueError:
@@ -76,5 +69,5 @@ with open(sys.argv[2], 'w') as outfile:
                     j = j - 1
                     del messages[-1]
                     break
-
-        outfile.write(json.dumps(conversations))
+        conversations.append(messages)
+    outfile.write(json.dumps(conversations, indent=2))
