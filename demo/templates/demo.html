@@ -7,7 +7,7 @@
 <div class="ui form">
   <div class="field">
     <label>Conversation</label>
-    <textarea id="convo" rows=20 style="font-family: Consolas"></textarea>
+    <textarea id="convo" rows=30 style="font-family: Consolas"></textarea>
     <div>
         <a id="demo1">Demo 1</a> ::
         <a id="demo2">Demo 2</a> ::
@@ -28,19 +28,19 @@
 <script>
 var c1 = [
   {
-    "content": "Wow I am so excited for school to be done!", 
+    "content": "Yo that party was outstanding.",
     "userId": 1
-  }, 
+  },
   {
-    "content": "Me too bro", 
+    "content": "I felt sick :/",
     "userId": 2
   },
   {
-    "content": "What was your favorite class this semester?", 
+    "content": "They'll be another one!",
     "userId": 1
   },
   {
-    "content": "NLP was awesome", 
+    "content": "Can't wait.",
     "userId": 2
   }
 ];
@@ -65,8 +65,26 @@ var c2 = [
 ];
 
 var c3 = [
-{ uid: 1, msg: 'I just got a 100 on my exam!' },
-{ uid: 2, msg: 'Nice job!' },
+  {
+    "userId": 1,
+    "content": "There's a ghost in my house"
+  },
+  {
+    "userId": 2,
+    "content": "No way"
+  },
+  {
+    "userId": 1,
+    "content": "RIP Me"
+  },
+  {
+    "userId": 2,
+    "content": "You can come over here"
+  },
+  {
+    "userId": 1,
+    "content": "Would rather the ghost get me"
+  }
 ];
 
 $(document).ready(function () {
