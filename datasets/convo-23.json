@@ -1,0 +1,920 @@
+[
+  {
+    "message": "So eating out. What are you interested in in restaurants?", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "1"
+  }, 
+  {
+    "message": "Right, uh. We eat out quite a bit, it's just my husband and I at home now. So. -", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "2"
+  }, 
+  {
+    "message": "Uh, once a week, twice a week?", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "3"
+  }, 
+  {
+    "message": "Oh, at least once a week. We're, we're retired now. When we working out we ate out more than that <laughter>.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "4"
+  }, 
+  {
+    "message": "Yeah, I understand.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "5"
+  }, 
+  {
+    "message": "Uh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "6"
+  }, 
+  {
+    "message": "Uh, but we both work and we have a daughter, and we normally manage to eat out once a week anyway.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "7"
+  }, 
+  {
+    "message": "Uh-huh. Well, what type of restaurant do you like, Richard?", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "8"
+  }, 
+  {
+    "message": "Uh, really, I'm kind of open on food. I'm what you might call a culinary adventurer. I'll,", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "9"
+  }, 
+  {
+    "message": "<Laughter>.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "10"
+  }, 
+  {
+    "message": "uh, try anything once.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "11"
+  }, 
+  {
+    "message": "Right.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "12"
+  }, 
+  {
+    "message": "Been on a real barbecue kick lately.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "13"
+  }, 
+  {
+    "message": "Oh have you?", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "14"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "15"
+  }, 
+  {
+    "message": "We like Chinese. We eat,", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "16"
+  }, 
+  {
+    "message": "<Cough>.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "17"
+  }, 
+  {
+    "message": "a lot of Chinese food.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "18"
+  }, 
+  {
+    "message": "Excuse me. Uh, yeah, we usually have Chinese once a month.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "19"
+  }, 
+  {
+    "message": "What do you look for in a restaurant?", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "20"
+  }, 
+  {
+    "message": "I hate franchised restaurants.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "21"
+  }, 
+  {
+    "message": "You what? You, -", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "22"
+  }, 
+  {
+    "message": "I despise --", 
+    "tag": "anger", 
+    "user": "B", 
+    "message_id": "23"
+  }, 
+  {
+    "message": "Oh I, -", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "24"
+  }, 
+  {
+    "message": "-- franchised restaurants. I, I, I always prefer to go to something that seems more family run.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "25"
+  }, 
+  {
+    "message": "Right.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "26"
+  }, 
+  {
+    "message": "Uh, some place where you seem to have the attitude like you're going into their home for dinner almost.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "27"
+  }, 
+  {
+    "message": "I know what you mean. I like some ambiance, and I like good food. I don't like fast food hamburgers <laughter> and all of that.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "28"
+  }, 
+  {
+    "message": "I don't, but I don't like something fake or put on either.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "29"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "30"
+  }, 
+  {
+    "message": "You know, if I could have a good small restaurant or a good large restaurant I'd go to the good small restaurant.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "31"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "32"
+  }, 
+  {
+    "message": "And <breathing> I don't know why that is. I think it's probably due to pricing, often.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "33"
+  }, 
+  {
+    "message": "Right, uh-huh. I don't care to go to a place just for the price of it <laughter>.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "34"
+  }, 
+  {
+    "message": "Well, yeah, yeah,", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "35"
+  }, 
+  {
+    "message": "I mean, it's like continental French restaurant or something really --", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "36"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "37"
+  }, 
+  {
+    "message": "-- with high prices and seven courses isn't what I usually look for <laughter>.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "38"
+  }, 
+  {
+    "message": "It is what you look for?", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "39"
+  }, 
+  {
+    "message": "It isn't, no that isn't what I look for.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "40"
+  }, 
+  {
+    "message": "Oh, isn't, isn't. Uh, I try to get my money's worth.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "41"
+  }, 
+  {
+    "message": "Right <laughter>.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "42"
+  }, 
+  {
+    "message": "And not just that, I try to, well, that's a big part of it. I try to get my money's worth.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "43"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "44"
+  }, 
+  {
+    "message": "You know, and not just in quantity, you know, but quality, and, and flavor and texture and care.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "45"
+  }, 
+  {
+    "message": "Presentation and, -", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "46"
+  }, 
+  {
+    "message": "Well, presentation's not always all of it either.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "47"
+  }, 
+  {
+    "message": "Well, like --", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "48"
+  }, 
+  {
+    "message": "It's, it's important.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "49"
+  }, 
+  {
+    "message": "-- we, we've been eating some in a restaurant that <throat_clearing> that just changed hands recently, and we're trying to give them a little patronage. But Sunday we went there, and I had a pretty good meal of grilled pork chops and a baked apple and potatoes.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "50"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "51"
+  }, 
+  {
+    "message": "So I said if they would just add a little bit of cranberry sauce, something like that <laughter>. -", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "52"
+  }, 
+  {
+    "message": "Yeah, yeah, something a little extra --", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "53"
+  }, 
+  {
+    "message": "Yeah, that's what I mean by, -", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "54"
+  }, 
+  {
+    "message": "-- and just for color if nothing else.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "55"
+  }, 
+  {
+    "message": "Right, uh-huh. It would mean a lot to the looks of the plate.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "56"
+  }, 
+  {
+    "message": "Yeah, yeah. What I miss up here is, - I'm originally a Texan, and I miss home cooked Mexican.", 
+    "tag": "sadness", 
+    "user": "B", 
+    "message_id": "57"
+  }, 
+  {
+    "message": "Tex-Mex, Tex-Mex.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "58"
+  }, 
+  {
+    "message": "Yeah, home cooked Tex-Mex.", 
+    "tag": "sadness", 
+    "user": "B", 
+    "message_id": "59"
+  }, 
+  {
+    "message": "<Laughter>.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "60"
+  }, 
+  {
+    "message": "Uh, Mexican restaurants where it's not owned by an Anglo or a corporation.", 
+    "tag": "anger", 
+    "user": "B", 
+    "message_id": "61"
+  }, 
+  {
+    "message": "Right, I know. Uh, we have a daughter in Texas and one in New Mexico, and we've really gotten to like, we like the real Mexican food --", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "62"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "63"
+  }, 
+  {
+    "message": "-- better than Tex-Mex.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "64"
+  }, 
+  {
+    "message": "Well, there's real Mexican food and there's real Tex-Mex Mexican, you know, by third or fourth generation Americans --", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "65"
+  }, 
+  {
+    "message": "Right.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "66"
+  }, 
+  {
+    "message": "-- of Hispanic heritage.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "67"
+  }, 
+  {
+    "message": "It's all pretty good, isn't it?", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "68"
+  }, 
+  {
+    "message": "Oh, yes, and, and there's big differences, of course, and, of course, when you talk about Mexican cuisine you, that's kind of like talking about American food or Chinese food, <noise> <<dishes in background>> because <<pause>> its regional, too.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "69"
+  }, 
+  {
+    "message": "Right, uh-huh, that's true.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "70"
+  }, 
+  {
+    "message": "So. -", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "71"
+  }, 
+  {
+    "message": "I'm originally from Maine, so we like seafood, too. And that's something we don't get here, and we're in the mountains in Virginia.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "72"
+  }, 
+  {
+    "message": "Oh.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "73"
+  }, 
+  {
+    "message": "And most of the seafood's frozen.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "74"
+  }, 
+  {
+    "message": "Uh, yeah that's the way it is here in Colorado, also. No fresh, or almost no fresh seafood --", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "75"
+  }, 
+  {
+    "message": "Right.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "76"
+  }, 
+  {
+    "message": "-- and in Texas we got it from the Gulf.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "77"
+  }, 
+  {
+    "message": "Uh-huh, that's true. Lots of shrimp.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "78"
+  }, 
+  {
+    "message": "And, yeah, here a couple years ago my wife and I went to Seattle on vacation. <<pause>> And I think everything except breakfast was seafood for almost a week.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "79"
+  }, 
+  {
+    "message": "I know it <laughter>.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "80"
+  }, 
+  {
+    "message": "And it was, <<pause>> I was like a man starving at every meal.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "81"
+  }, 
+  {
+    "message": "<Laughter> I know the feeling. We do the same thing. My son-in-law is a Texan, and when he goes to Maine, he eats lobster, I guess, at least twice a day, all the time he's up there <laughter>.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "82"
+  }, 
+  {
+    "message": "It's a lot cheaper there, isn't it? Lobster?", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "83"
+  }, 
+  {
+    "message": "Oh, yeah, yeah. It's like --", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "84"
+  }, 
+  {
+    "message": "It's like shrimp on the Gulf.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "85"
+  }, 
+  {
+    "message": "-- two ninety-eight a pound for a pound lobster.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "86"
+  }, 
+  {
+    "message": "Two ninety-eight a pound.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "87"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "88"
+  }, 
+  {
+    "message": "That's as cheap as steaks some places --", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "89"
+  }, 
+  {
+    "message": "Oh yeah, cheaper, right.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "90"
+  }, 
+  {
+    "message": "-- I mean in a grocery store.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "91"
+  }, 
+  {
+    "message": "Right, yeah. A lot of the restaurants you can get two pou-, two one pound lobsters for like ten ninety-nine.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "92"
+  }, 
+  {
+    "message": "Oh, my gosh. I've got to go to Maine then <noise> <<dishes rattling in background>>.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "93"
+  }, 
+  {
+    "message": "<Laughter>.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "94"
+  }, 
+  {
+    "message": "You may have sold a trip for some time.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "95"
+  }, 
+  {
+    "message": "Yeah, it's a good place to go.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "96"
+  }, 
+  {
+    "message": "Uh, it sounds wonderful. Uh, so, -", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "97"
+  }, 
+  {
+    "message": "Lots of little restaurants, too, with home cooked food, that's up there.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "98"
+  }, 
+  {
+    "message": "That sound good. Uh, down in the Gulf I've eaten a bunch of those little <<pause>> uh, seafood shacks, we've called them.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "99"
+  }, 
+  {
+    "message": "Right, uh-huh.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "100"
+  }, 
+  {
+    "message": "And, uh, it's just so much different than to eat something that's been frozen.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "101"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "102"
+  }, 
+  {
+    "message": "You know <<pause>> --", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "103"
+  }, 
+  {
+    "message": "We went to Gal-, +", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "104"
+  }, 
+  {
+    "message": "-- shrimp straight out of the bay.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "105"
+  }, 
+  {
+    "message": "We were in Galveston last year aft-, right aft-, well, the first of this year, actually.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "106"
+  }, 
+  {
+    "message": "Hm.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "107"
+  }, 
+  {
+    "message": "And, ate in a restaurant, and they claimed to have the best shrimp on the Gulf coast.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "108"
+  }, 
+  {
+    "message": "Was it true?", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "109"
+  }, 
+  {
+    "message": "No. It wasn't. On the way across Louisiana, we pulled off, we saw a billboard and just pulled off taking a chance on a place. And they had, - it was a small restaurant, just kind of out of the way, and they were set up with two buffets, one for their regular Sunday chicken and roast beef and vegetables and everything.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "110"
+  }, 
+  {
+    "message": "Hm.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "111"
+  }, 
+  {
+    "message": "And then one complete seafood buffet.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "112"
+  }, 
+  {
+    "message": "Huh.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "113"
+  }, 
+  {
+    "message": "<Laughter> That was the best shrimp I have ever had in my life. They had shrimp fixed probably six different ways.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "114"
+  }, 
+  {
+    "message": "Uh, yes, the cajuns.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "115"
+  }, 
+  {
+    "message": "Uh-huh, right. It was wonderful.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "116"
+  }, 
+  {
+    "message": "They can, they can do things to shrimp that, that no one else can.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "117"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "118"
+  }, 
+  {
+    "message": "So, have you eaten crawfish yet?", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "119"
+  }, 
+  {
+    "message": "Uh, I tried it, but I didn't care for it. Not there, but at my brothers I tried it.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "120"
+  }, 
+  {
+    "message": "Oh, as with anything, it's preparation.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "121"
+  }, 
+  {
+    "message": "That's probably true. It, I wasn't hungry, it wasn't a meal. We just, he went down and bought some at a --", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "122"
+  }, 
+  {
+    "message": "Uh.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "123"
+  }, 
+  {
+    "message": "-- local place that steams them, just so we'd try them.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "124"
+  }, 
+  {
+    "message": "Uh-huh. It, - there's all kinds,", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "125"
+  }, 
+  {
+    "message": "Probably needed some cold beer with it and <laughter>, -", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "126"
+  }, 
+  {
+    "message": "<Laughter> So you do eat out a lot.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "127"
+  }, 
+  {
+    "message": "Quite a bit.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "128"
+  }, 
+  {
+    "message": "One of our other real problems with going out to eat, Sunday morning brunches.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "129"
+  }, 
+  {
+    "message": "Oh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "130"
+  }, 
+  {
+    "message": "You know, Sunday brunch, all, all you can eat brunches.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "131"
+  }, 
+  {
+    "message": "Right. We used to do that, once in a while, but we don't anymore.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "132"
+  }, 
+  {
+    "message": "Uh, we still find it fun.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "133"
+  }, 
+  {
+    "message": "Uh-huh. It's fun, but it's just so much food <laughter>. Hate to come away feeling uncomfortable <laughter>.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "134"
+  }, 
+  {
+    "message": "Well, I work in machine shop and do a lot of physical labor.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "135"
+  }, 
+  {
+    "message": "Do you, well that makes a difference.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "136"
+  }, 
+  {
+    "message": "And so, -", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "137"
+  }, 
+  {
+    "message": "Where do you go to brunches? Like at hotels, or restaurants there?", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "138"
+  }, 
+  {
+    "message": "Yeah, uh, actually one of our, one of our favorites is a chain. Shoney's.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "139"
+  }, 
+  {
+    "message": "Oh, yeah, uh-huh. We eat at Shoney's.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "140"
+  }, 
+  {
+    "message": "Yeah, <noise> <<dishes rattling>> in spite of the fact I've spoken so badly about chains, chain restaurants, uh, we, uh, do like Shoney's pretty well, but then there's a place up the pass, up in the mountains that we pretty reliably like to go to on some Sunday mornings, drive, drive up to, I think it's about eight thousand foot elevation.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "141"
+  }, 
+  {
+    "message": "Oh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "142"
+  }, 
+  {
+    "message": "And, and drive through Woodland Park and go for a short drive in the mountains and have breakfast.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "143"
+  }, 
+  {
+    "message": "Uh-huh, that sounds nice.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "144"
+  }, 
+  {
+    "message": "It, it, it's the way to spend a nice Sunday morning.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "145"
+  }, 
+  {
+    "message": "Right, I imagine it is.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "146"
+  }, 
+  {
+    "message": "I think it's as much the, the trip to the mountains as it is the breakfast brunch. You know, and it's not that far. It's thirty miles.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "147"
+  }, 
+  {
+    "message": "Whe-, - out of, which direction?", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "148"
+  }, 
+  {
+    "message": "Colorado Springs.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "149"
+  }, 
+  {
+    "message": "Out of, which direction from there?", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "150"
+  }, 
+  {
+    "message": "West --", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "151"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "152"
+  }, 
+  {
+    "message": "-- west out of Colorado Springs.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "153"
+  }
+]
