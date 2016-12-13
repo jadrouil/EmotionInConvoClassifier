@@ -1,0 +1,620 @@
+[
+  {
+    "message": "So, uh, what do you think? <Laughter>.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "1"
+  }, 
+  {
+    "message": "I think we're overtaxed to the hilt.", 
+    "tag": "anger", 
+    "user": "A", 
+    "message_id": "2"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "3"
+  }, 
+  {
+    "message": "Yeah, I mean, we're, we're taxed on taxes and, um, uh, most all government entities are just trying to give us a state income tax for those who don't have it that is. I mean we don't have one yet, but eventually they may try to push it through.", 
+    "tag": "anger", 
+    "user": "A", 
+    "message_id": "4"
+  }, 
+  {
+    "message": "Oh really. So they have n-, I didn't realize they had no state tax in Texas.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "5"
+  }, 
+  {
+    "message": "No, no state income tax.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "6"
+  }, 
+  {
+    "message": "Oh, that's great, because they don't have it in Florida. In New York they have it.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "7"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "8"
+  }, 
+  {
+    "message": "I mean, you know, like I say, I'm in New York and we have a state tax as well. So that just cuts even more.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "9"
+  }, 
+  {
+    "message": "Yeah, I think what needs to be done is they need to control their spending habits.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "10"
+  }, 
+  {
+    "message": "Right, I, I think that I, I mean, I wouldn't be so upset about the amount of taxes paid if it weren't for the fact that they don't, they don't go to any place. You know, y-, you don't see it going to any place where it belongs.", 
+    "tag": "anger", 
+    "user": "B", 
+    "message_id": "11"
+  }, 
+  {
+    "message": "Right.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "12"
+  }, 
+  {
+    "message": "I think if it were to be, uh, if it were to be, um, if it were to be, <whispering> hold, hold on a second please, someone just walked in the ro-,", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "13"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "14"
+  }, 
+  {
+    "message": "<Rattling> If, if it were to be spent in the right way I think I wouldn't be so upset about it, but given that it, that it's not spent properly, I think it's a major problem.", 
+    "tag": "anger", 
+    "user": "B", 
+    "message_id": "15"
+  }, 
+  {
+    "message": "Well we're really overburdened from federal, state and local,", 
+    "tag": "anger", 
+    "user": "A", 
+    "message_id": "16"
+  }, 
+  {
+    "message": "Uh-huh <<softly>>.", 
+    "tag": "anger", 
+    "user": "B", 
+    "message_id": "17"
+  }, 
+  {
+    "message": "that it takes such a size out of your paycheck that there's not a whole lot you can always do with your paycheck.", 
+    "tag": "anger", 
+    "user": "A", 
+    "message_id": "18"
+  }, 
+  {
+    "message": "Well that's certainly true. Well what is it they were just talking about, um, sort of middle income, you know, how, how, middle income people, - what winds up happening is, for instance having kids, you know, they wind up having kids as a deduction and after, - but the deduction is so little for kids that they wind up having to pay more in taxes than it costs to raise a kid for the year or something.", 
+    "tag": "anger", 
+    "user": "B", 
+    "message_id": "19"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "20"
+  }, 
+  {
+    "message": "I think tha-, - so they want to, you know try an-, - I think they're trying, I think tha-, I think that most of the politicians understand this. They just don't, they're just not very good at doing what they're supposed to be doing.", 
+    "tag": "anger", 
+    "user": "B", 
+    "message_id": "21"
+  }, 
+  {
+    "message": "Well they're kind of put into a trap of being out there to please the special interest groups as well.", 
+    "tag": "anger", 
+    "user": "A", 
+    "message_id": "22"
+  }, 
+  {
+    "message": "Right.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "23"
+  }, 
+  {
+    "message": "And, uh, I think the only way that can be changed for us to get a, a better tax revenue that's fairness and all, is for us to limit their terms.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "24"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "25"
+  }, 
+  {
+    "message": "And by doing so, they're not obligated to anybody.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "26"
+  }, 
+  {
+    "message": "I agree, I agree.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "27"
+  }, 
+  {
+    "message": "And, uh, I don't know how we're going to do that right away though, but, what, what in general though that taxes are doing to us is, it's just taking, uh, a bite out of our savings.", 
+    "tag": "anger", 
+    "user": "A", 
+    "message_id": "28"
+  }, 
+  {
+    "message": "Right, exactly, and then, and then, uh, I'm, I'm just not sure if I see, you know, if I see it going, like I say to the right places. I mean, it'd be, it'd be one thing if it were taking a bite out of your savings and then you were getting it all back when you got older.", 
+    "tag": "anger", 
+    "user": "B", 
+    "message_id": "29"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "30"
+  }, 
+  {
+    "message": "You know, but I'm not convinced, that's, a-, tha-, that Social Security is doing as well as it should [ and, you know, and, and, and, uh, and, and that, you know, those people who need it for welfare and so forth, who really need it for welfare, not the eighty-five to ninety percent of them who don't need it. But I mean the real people who really need it, you know, should be getting it but instead I think it's going to the wrong places.", 
+    "tag": "anger", 
+    "user": "B", 
+    "message_id": "31"
+  }, 
+  {
+    "message": "And I believe the Social Security tax is a great scheme.", 
+    "tag": "anger", 
+    "user": "A", 
+    "message_id": "32"
+  }, 
+  {
+    "message": "You think so?", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "33"
+  }, 
+  {
+    "message": "Yeah, it's, uh, you know, - right now, they're robbing from it to pad the federal deficit.", 
+    "tag": "anger", 
+    "user": "A", 
+    "message_id": "34"
+  }, 
+  {
+    "message": "I know and that scares the hell out of me.", 
+    "tag": "fear", 
+    "user": "B", 
+    "message_id": "35"
+  }, 
+  {
+    "message": "Yeah, tha-, that's illegal, see. If, uh, most company, uh, C E O -s were to do that within their private company, they'd be in jail.", 
+    "tag": "anger", 
+    "user": "A", 
+    "message_id": "36"
+  }, 
+  {
+    "message": "Yeah <door>.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "37"
+  }, 
+  {
+    "message": "<Laughter> So how are we letting them get away with it.", 
+    "tag": "anger", 
+    "user": "A", 
+    "message_id": "38"
+  }, 
+  {
+    "message": "Yeah, I don't, I don't, - well becau-, because they're the ones who make the laws.", 
+    "tag": "anger", 
+    "user": "B", 
+    "message_id": "39"
+  }, 
+  {
+    "message": "Right.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "40"
+  }, 
+  {
+    "message": "So who's going to yell at them, you know, it'd be nice if we sort of, as one, band together and, and, uh, and, an performed a citizens arrest, I guess.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "41"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "42"
+  }, 
+  {
+    "message": "To see if we could sort of clean them up and you know, but I don't know if we can do that or not.", 
+    "tag": "sadness", 
+    "user": "B", 
+    "message_id": "43"
+  }, 
+  {
+    "message": "A lot of people have become too complacent and believe everything is just the norm as to the way things are going and feel absolutely helpless to oppose a lot of the situations going on,", 
+    "tag": "sadness", 
+    "user": "A", 
+    "message_id": "44"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "45"
+  }, 
+  {
+    "message": "in the taxing system.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "46"
+  }, 
+  {
+    "message": "I agree, I agree. But, um, yeah, like, like you said, I wonder, you know, if, if it's certainly not going to be a slow change process and I wonder if it'll ever be a change process.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "47"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "48"
+  }, 
+  {
+    "message": "I sort of, I sort of get discouraged when I think about all the things that I think are wrong <breathing> <laughter>. You know, all those things that really could be changed that aren't, you know, that, that aren't. And tax is one of those things that just sort of sits way up there on the list.", 
+    "tag": "sadness", 
+    "user": "B", 
+    "message_id": "49"
+  }, 
+  {
+    "message": "Yeah, uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "50"
+  }, 
+  {
+    "message": "So, I don't kno-, - I, I, I have no idea what to do about it.", 
+    "tag": "sadness", 
+    "user": "B", 
+    "message_id": "51"
+  }, 
+  {
+    "message": "Well there's no quick solution, or no sure fire easy answer. It's just going to take, uh, uh, really, uh, uh, uh, a combination effort, I think, of the majority of the American people to come to a decisive answer,", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "52"
+  }, 
+  {
+    "message": "<Door>.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "53"
+  }, 
+  {
+    "message": "or vote to limit the way it's spent.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "54"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "55"
+  }, 
+  {
+    "message": "See, we, we're, we have no say so as to where the money goes in the first place.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "56"
+  }, 
+  {
+    "message": "Right. We don't, - I mean, the only say so we have is supposedly by electing people who we think are going to vote one way of another.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "57"
+  }, 
+  {
+    "message": "Right and they are controlled, or pretty much do what they want to do.", 
+    "tag": "disgust", 
+    "user": "A", 
+    "message_id": "58"
+  }, 
+  {
+    "message": "Right, I've never quite understood that. I've never, uh, you know, even though, um, I, I've never been, uh, sort of politically minded, - but it's never been clear to me as to sort of, um, you know, how Congressmen an, can, can just sort of go ahead and vote their own conscience as their own ideas when clearly their constituency doe-, doesn't back them up on anything, you know. And often times that will happen.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "59"
+  }, 
+  {
+    "message": "Well they feel invu-, invulnerable to, uh, any wrath or,", 
+    "tag": "disgust", 
+    "user": "A", 
+    "message_id": "60"
+  }, 
+  {
+    "message": "Right <clicking>.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "61"
+  }, 
+  {
+    "message": "uh, it's, it's occurred so many times that they figure people will usually forget and don't think about it when the election time arises.", 
+    "tag": "disgust", 
+    "user": "A", 
+    "message_id": "62"
+  }, 
+  {
+    "message": "Right.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "63"
+  }, 
+  {
+    "message": "And generally it does work out that way.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "64"
+  }, 
+  {
+    "message": "They do forget, it's true, coul-, because everybody, - think of what happens is whenever the politici-, whenever th-, the one who made that supposed mistake turns around - and, uh, his, his or her opponent can say well look, they did this. And they can turn around and say well my opponent did this.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "65"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "66"
+  }, 
+  {
+    "message": "So it becomes, uh, a general battle of the w-, sort of the election of the lesser of two evils, I think, so.", 
+    "tag": "sadness", 
+    "user": "B", 
+    "message_id": "67"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "68"
+  }, 
+  {
+    "message": "I don't know, I just, uh, I'm unhappy with it but. - And well, I'm, I'm sort of semifortunate right now, I'm a graduate student, so I don't make that much,", 
+    "tag": "sadness", 
+    "user": "B", 
+    "message_id": "69"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "70"
+  }, 
+  {
+    "message": "and what I make isn't taxed very highly because I'm still in school.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "71"
+  }, 
+  {
+    "message": "Well when you get out into the real world then you'll know.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "72"
+  }, 
+  {
+    "message": "But it's, my, my, my wife has a real job and, you know, when I get her job, um, you know, we, we look at her paycheck, I'm just floored when I see how little of it we're actually allowed to keep.", 
+    "tag": "anger", 
+    "user": "B", 
+    "message_id": "73"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "74"
+  }, 
+  {
+    "message": "<Door> Especially around bonus time.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "75"
+  }, 
+  {
+    "message": "Bonus time, you have a bonus?", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "76"
+  }, 
+  {
+    "message": "Bonus, she, - no, my, my wife does.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "77"
+  }, 
+  {
+    "message": "Oh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "78"
+  }, 
+  {
+    "message": "My wi-, - I don-, - no graduate students don't get bonuses.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "79"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "80"
+  }, 
+  {
+    "message": "We're lucky to get paychecks the way I figure.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "81"
+  }, 
+  {
+    "message": "So you're taxed on the bonuses too, right.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "82"
+  }, 
+  {
+    "message": "My, my wife is taxed on her bonus as well, and that's a, that's usually a big chunk of her bonus check actually.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "83"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "84"
+  }, 
+  {
+    "message": "I mean her bonus isn't that much, but they tax it as, - I, I guess they tax it as if that were her weekly check or something.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "85"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "86"
+  }, 
+  {
+    "message": "So she gets destroyed on her bonus check.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "87"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "88"
+  }, 
+  {
+    "message": "So, she works with in, in, in sales. So a good portion of her, you know, her salary is, is quarterly bonuses.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "89"
+  }, 
+  {
+    "message": "Uh, sales is lucrative but then you're paying really high taxes when you're doing a lucrative job.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "90"
+  }, 
+  {
+    "message": "Yes, well, yeah, she's not entirely sales, so it isn't, it isn't as lucrative as one would hope, but, it, it keeps us supported temporarily,", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "91"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "92"
+  }, 
+  {
+    "message": "until I can get a real salary and then get taxed more. So, I don't know, I d-, I guess, I guess at this point in time we're just sort of going to have to live with it, <breathing> and hope that it gets better <door>.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "93"
+  }, 
+  {
+    "message": "Yeah. Well, I have, I guess about said what a-, all I can think of to say.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "94"
+  }, 
+  {
+    "message": "Same here, tough topic so. -", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "95"
+  }, 
+  {
+    "message": "Yeah, it's re-, a rather touchy topic at that, but <laughter>. -", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "96"
+  }, 
+  {
+    "message": "I beli-, - I, I, I do agree with you, most, most wholeheartedly.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "97"
+  }, 
+  {
+    "message": "Well that's great.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "98"
+  }, 
+  {
+    "message": "It's been a pleasure talking with you.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "99"
+  }, 
+  {
+    "message": "You too, and, uh, -", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "100"
+  }, 
+  {
+    "message": "Thanks for call.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "101"
+  }, 
+  {
+    "message": "have a good day.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "102"
+  }, 
+  {
+    "message": "You too. Bye-bye.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "103"
+  }
+]
