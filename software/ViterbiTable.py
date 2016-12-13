@@ -46,17 +46,17 @@ class ViterbiTable:
 		for i in range(0, len(self._emotions)):
 			inst = instance(None, self._convo[0].content())
 			pEmotion = emc.test(inst, self._emotions[i])
-			pEmotionSent = ecc.pGivenSent(self._emotions[i], "START")
-			pEmotionRecv = ecc.pGivenReceived(self._emotions[i], "START")
-			self._table[0].addRowToCell(pEmotion + pEmotionSent + pEmotionRecv, -1)
+			#pEmotionSent = ecc.pGivenSent(self._emotions[i], "START")
+			#pEmotionRecv = ecc.pGivenReceived(self._emotions[i], "START")
+			self._table[0].addRowToCell(pEmotion, -1)
 
 		user2msgIndex = 1
 		for i in range(0, len(self._emotions)):
 			inst = instance(None, self._convo[1].content())
 			pEmotion = emc.test(inst, self._emotions[i])
-			pEmotionSent = ecc.pGivenSent(self._emotions[i], "START")
-			pEmotionRecv = self._selectMaximizingRecvP(ecc, user1msgIndex, self._emotions[i])
-			self._table[1].addRowToCell(pEmotion + pEmotionSent + pEmotionRecv, -1)
+			#pEmotionSent = ecc.pGivenSent(self._emotions[i], "START")
+			#pEmotionRecv = self._selectMaximizingRecvP(ecc, user1msgIndex, self._emotions[i])
+			self._table[1].addRowToCell(pEmotion, -1)
 		return user1msgIndex,user2msgIndex
 
 
