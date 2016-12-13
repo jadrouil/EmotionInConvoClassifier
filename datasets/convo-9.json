@@ -1,0 +1,548 @@
+[
+  {
+    "message": "All righty. So, uh, do you think Russia's still a threat?", 
+    "tag": "fear", 
+    "user": "B", 
+    "message_id": "1"
+  }, 
+  {
+    "message": "Well, I guess I'm maybe naive, but I never did feel that Russia was a big threat to us.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "2"
+  }, 
+  {
+    "message": "There you go <TV>.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "3"
+  }, 
+  {
+    "message": "I mean, obviously there's <talking> the, the, the possibility of, or, was the possibility of war, uh, but, I somehow think that war is one of those things that maybe is inevitable, but, uh, I don't look at it as a threat in the same sense that, that I think this question was meant. What about you?", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "4"
+  }, 
+  {
+    "message": "Well, I think, - h-, have you ever read the book NINETEEN EIGHTY-FOUR?", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "5"
+  }, 
+  {
+    "message": "Yes.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "6"
+  }, 
+  {
+    "message": "Okay, you know, like, how, uh, these two, there was like three continents that were always fighting with each other --", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "7"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "8"
+  }, 
+  {
+    "message": "-- right, and you could picture it as being Russia versus the U S --", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "9"
+  }, 
+  {
+    "message": "Right.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "10"
+  }, 
+  {
+    "message": "-- d-, during the whole time and what they would do is they would get their prisoners and kill them as soon as they got them because the people there could realize that they were the same as, as themselves, you know, the prisoners of wars were, were the same as the people living in that country.", 
+    "tag": "fear", 
+    "user": "B", 
+    "message_id": "11"
+  }, 
+  {
+    "message": "Right.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "12"
+  }, 
+  {
+    "message": "And you didn't want that to happen. And to me, it had always been that way. I mean what happens is, you have a government, right, and this government controls everything, right --", 
+    "tag": "fear", 
+    "user": "B", 
+    "message_id": "13"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "14"
+  }, 
+  {
+    "message": "-- and then you have the people inhabiting the country and these people have nothing to do with the government itself.", 
+    "tag": "fear", 
+    "user": "B", 
+    "message_id": "15"
+  }, 
+  {
+    "message": "Right.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "16"
+  }, 
+  {
+    "message": "And these people are the same as you are.", 
+    "tag": "fear", 
+    "user": "B", 
+    "message_id": "17"
+  }, 
+  {
+    "message": "Right.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "18"
+  }, 
+  {
+    "message": "And what goes on is that every time somebody attacks a country, supposedly U S or Russia attacks a country, it's not going to be within the borders of the U S or Russia itself. Like I was telling people, I'm really mad because the whole thing in the Middle East this was going on. In Lith-, in Lithuania, they, they were announced to be a separate country. But, yet, the, the government that's in Moscow told its army to go in there and get those people and the U. S. didn't go in there and try to save those people.", 
+    "tag": "anger", 
+    "user": "B", 
+    "message_id": "19"
+  }, 
+  {
+    "message": "Right.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "20"
+  }, 
+  {
+    "message": "You know. It's like you're not going to go in there and say no, listen, there's a separate country. Why, because you're going into the border.", 
+    "tag": "anger", 
+    "user": "B", 
+    "message_id": "21"
+  }, 
+  {
+    "message": "Uh-huh, uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "22"
+  }, 
+  {
+    "message": "Right. Once you get into the border, then there's a threat. {C But what happens is you don't mess with us, we won't mess with you, but let's mess with the neutral countries.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "23"
+  }, 
+  {
+    "message": "Uh-huh, uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "24"
+  }, 
+  {
+    "message": "You know, and now it's like you know, they're saying other people were, were I guess, other leaders were still crazier about it, you know, like other people, you could think that they might use a bomb here and a bomb there, but Russia has never been known for throwing an atomic bomb anywhere.", 
+    "tag": "fear", 
+    "user": "B", 
+    "message_id": "25"
+  }, 
+  {
+    "message": "Uh-huh, uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "26"
+  }, 
+  {
+    "message": "And the U S has. You know, it's like they, it seems like they can, their, their army or whatever can, can go in there quicker than an atomic bomb can and do, do the job with, uh, you know, less suffering.", 
+    "tag": "anger", 
+    "user": "B", 
+    "message_id": "27"
+  }, 
+  {
+    "message": "Uh-huh, uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "28"
+  }, 
+  {
+    "message": "You know, but I think, I think the thing is, is that there, the thing - like they were saying they go, you know, - like Libya could start a nuclear war because of whoever is behind the button. But not the U S S R,", 
+    "tag": "anger", 
+    "user": "B", 
+    "message_id": "29"
+  }, 
+  {
+    "message": "Right.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "30"
+  }, 
+  {
+    "message": "The U S S R --", 
+    "tag": "anger", 
+    "user": "B", 
+    "message_id": "31"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "32"
+  }, 
+  {
+    "message": "-- wouldn't do it.", 
+    "tag": "anger", 
+    "user": "B", 
+    "message_id": "33"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "34"
+  }, 
+  {
+    "message": "Because they got too much at stake.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "35"
+  }, 
+  {
+    "message": "But I guess there was concern, uh, that I-, Iraq would use, you know, nonconventional warheads with, with the chemical weapons and things but yet it didn't happen.", 
+    "tag": "fear", 
+    "user": "A", 
+    "message_id": "36"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "37"
+  }, 
+  {
+    "message": "I mean --", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "38"
+  }, 
+  {
+    "message": "Well,", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "39"
+  }, 
+  {
+    "message": "-- why not.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "40"
+  }, 
+  {
+    "message": "My, my point of view to that is, is that it would have had so much, I mean the attack would have been so complete on Iraq if they had. I mean the first, you can imagine the first, uh, chemical weapon used --", 
+    "tag": "fear", 
+    "user": "B", 
+    "message_id": "41"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "42"
+  }, 
+  {
+    "message": "-- that would have meant a total attack of the Iraq country within, you know, three hours of when the weapon was shot.", 
+    "tag": "fear", 
+    "user": "B", 
+    "message_id": "43"
+  }, 
+  {
+    "message": "Oh, so you think it was fear that kept Iraq from --", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "44"
+  }, 
+  {
+    "message": "Right.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "45"
+  }, 
+  {
+    "message": "-- using it. But, yet the, -", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "46"
+  }, 
+  {
+    "message": "And what happens is, what happens is, - suppose they get Saddam Hussein, which they eventually will, he's got one less thing to go against him.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "47"
+  }, 
+  {
+    "message": "Uh-huh, uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "48"
+  }, 
+  {
+    "message": "I mean, if he were to use that, he might as well commit suicide --", 
+    "tag": "anger", 
+    "user": "B", 
+    "message_id": "49"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "50"
+  }, 
+  {
+    "message": "-- because he's going to be captured and, you know. - But the U. S. also makes a lot of, uh, you know, treaties with other people like saying, okay, if you give up, then you can come live in our country and we'll take care of you, like Marcos, right.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "51"
+  }, 
+  {
+    "message": "Right.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "52"
+  }, 
+  {
+    "message": "We'll overthrow you, but yet you can still come live here, you know.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "53"
+  }, 
+  {
+    "message": "Right, I don't think we've done that to Saddam Hussein yet.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "54"
+  }, 
+  {
+    "message": "Uh <laughter>, no.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "55"
+  }, 
+  {
+    "message": "<Laughter>.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "56"
+  }, 
+  {
+    "message": "No.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "57"
+  }, 
+  {
+    "message": "I think that's, that's, that's not very likely. But yet you know, as, as the parallel Russia is that Saddam Hussein is using the chemical warfare --", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "58"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "59"
+  }, 
+  {
+    "message": "-- on his own people. And I guess that makes sense what you said that, uh, within their own borders they feel freer to do --", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "60"
+  }, 
+  {
+    "message": "Right.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "61"
+  }, 
+  {
+    "message": "-- what, what they feel necessary.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "62"
+  }, 
+  {
+    "message": "Right.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "63"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "64"
+  }, 
+  {
+    "message": "And, uh, you know, there's, there's just, you know, - like people will go, like they, like the U. S. goes and goes into Panama and what, - see I don't believe in war. That's my thing. I don't believe that anybody should die --", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "65"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "66"
+  }, 
+  {
+    "message": "-- you know, and so then, you know, you have, - because what happens is, - suppose I'm, I go to war and I'm holding a gun and I'm just looking at myself holding a gun and whoever shoots first survives, you know. But that same person also has a family and, you know --", 
+    "tag": "sadness", 
+    "user": "B", 
+    "message_id": "67"
+  }, 
+  {
+    "message": "Right.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "68"
+  }, 
+  {
+    "message": "-- his parents are going to cry and, you know, life ends there and to me that's ridiculous. You know, I mean, I just don't believe it. I think there are other ways to fix it even though sometimes there aren't, but it's pretty hard to think that, you know, people are just going to shoot each other down and it's legal in a situation like that.", 
+    "tag": "sadness", 
+    "user": "B", 
+    "message_id": "69"
+  }, 
+  {
+    "message": "Well --", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "70"
+  }, 
+  {
+    "message": "You know.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "71"
+  }, 
+  {
+    "message": "-- or that, that it resolves anything in the end. That -- +", 
+    "tag": "disgust", 
+    "user": "A", 
+    "message_id": "72"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "73"
+  }, 
+  {
+    "message": "-- that negotiations couldn't resolve.", 
+    "tag": "disgust", 
+    "user": "A", 
+    "message_id": "74"
+  }, 
+  {
+    "message": "Yeah, I mean, I mean Saddam Hussein lost so much money during the war that it was ridiculous and he, all he was trying to do was make money at the beginning --", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "75"
+  }, 
+  {
+    "message": "Uh-huh <<faint>>.", 
+    "tag": "disgust", 
+    "user": "A", 
+    "message_id": "76"
+  }, 
+  {
+    "message": "-- so and keep his power, but, well, -", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "77"
+  }, 
+  {
+    "message": "Well, it sounds like neither one of us thinks that the Soviet Union is a real threat to the U S.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "78"
+  }, 
+  {
+    "message": "No, I, I don't think so. I think, uh, they're getting, they're especially getting their life back together now because a lot of things that you saw on TV, - a lot of, uh, inhabitants of Russia would love to stay in their country just as long as they were able to express what they wanted to.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "79"
+  }, 
+  {
+    "message": "Right.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "80"
+  }, 
+  {
+    "message": "A lot of like dancers and stuff like that.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "81"
+  }, 
+  {
+    "message": "Right.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "82"
+  }, 
+  {
+    "message": "They said that they wouldn't leave Russia unless Russia told them that they couldn't travel anymore and compete. So it must be a beautiful country.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "83"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "84"
+  }, 
+  {
+    "message": "It's just that, you know, they won't let you get out and when you want to get out of the country, that's what you want to do.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "85"
+  }, 
+  {
+    "message": "Right, right.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "86"
+  }, 
+  {
+    "message": "So, oh, well, I got to go to class now.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "87"
+  }, 
+  {
+    "message": "Okay, well thanks.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "88"
+  }, 
+  {
+    "message": "Nice talking to you.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "89"
+  }, 
+  {
+    "message": "Bye-bye.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "90"
+  }, 
+  {
+    "message": "Bye-bye.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "91"
+  }
+]
