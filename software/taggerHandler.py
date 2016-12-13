@@ -27,4 +27,4 @@ with open(testfile) as testData:
 
 
 
-print "Labeld emotions with ", aT.accuracy(), " percent accuracy."
+print "Labeled emotions with ", aT.accuracy(), " percent accuracy."

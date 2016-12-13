@@ -10,7 +10,7 @@ def hotwordsTrain(hotwordsFile,naiveBayesCalculator):
 
 def tweetTrain(bayesTrainFile, naiveBayesCalculator, emotionSet):
 	for line in csv.reader(open(bayesTrainFile)):
-		emo = line[0]
+		emo = line[0].lower()
 		if emo not in emotionSet:
 			continue
 		sentence = line[1]
