@@ -1,0 +1,938 @@
+[
+  {
+    "message": "Okay <laughter>.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "1"
+  }, 
+  {
+    "message": "If you want to go first, go ahead.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "2"
+  }, 
+  {
+    "message": "Oh, I think, I think that a woman's role has come a long way. We have gone more into the business aspect of, like I say, of, I don't know, working more, and we, I think we've even gone into more the labor aspect of it also.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "3"
+  }, 
+  {
+    "message": "Yeah, definitely.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "4"
+  }, 
+  {
+    "message": "With the pay and everything, you know.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "5"
+  }, 
+  {
+    "message": "I feel that, uh, we've missed as far as the top jobs go.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "6"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "7"
+  }, 
+  {
+    "message": "You know, the higher echelon.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "8"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "9"
+  }, 
+  {
+    "message": "Because if you look at most corporations, there isn't a woman, you know, that's on the board of directors, or that type of thing, they are mostly all men.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "10"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "11"
+  }, 
+  {
+    "message": "There may be a few, but very incidental.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "12"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "13"
+  }, 
+  {
+    "message": "<Laughter> And I really think that it will be a long time, probably, before we see that. In one sense, I'm an older person, in my fifties, so I feel that we've lost some things in the sense that women have to work today.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "14"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "15"
+  }, 
+  {
+    "message": "You know, that they are not in the home by choice anymore.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "16"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "17"
+  }, 
+  {
+    "message": "It's mostly, you know, - even if you want to say home, you really can't.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "18"
+  }, 
+  {
+    "message": "<Laughter> And a lot of times you can't, yeah.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "19"
+  }, 
+  {
+    "message": "You know, it's gotten to be a two income family to just survive today between taxes and the cost of living, and I don't think raises have kept up with, you know, a lot of the stuff, you know, as far as your medical insurance and just groceries and gasoline and all, you know.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "20"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "21"
+  }, 
+  {
+    "message": "So I think that we did come a long way in the sense that we are allowed to vote in, you know, like you say, we're out in the labor force, but I think we've lost something too.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "22"
+  }, 
+  {
+    "message": "Yeah, my mom, she's a housewife, and, well, there is twelve kids in my family, so my mom never could really work, you know, because she was kind of pregnant from day one. She never really had a chance to work.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "23"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "24"
+  }, 
+  {
+    "message": "She worked before she got married, but, uh, she, uh, she doesn't believe in, - she's very old fashioned. She doesn't believe in the woman working unless she has to.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "25"
+  }, 
+  {
+    "message": "That's what I mean, and --", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "26"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "27"
+  }, 
+  {
+    "message": "-- you know, there's a lot of truth to that. If you are not going to have a family, then that's fine, then, you know, a career is a smart choice.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "28"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "29"
+  }, 
+  {
+    "message": "And I think it's great, but if you, you have a family, I think you owe the family a responsibility.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "30"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "31"
+  }, 
+  {
+    "message": "And to have children and just get a day care or someone to take care of it, and not really have the bonding process that takes place with babies and stuff, you know --", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "32"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "33"
+  }, 
+  {
+    "message": "-- I, I think that the mother and the child lose, and I think that's why there is so many problems --", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "34"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "35"
+  }, 
+  {
+    "message": "-- you know, with kids today, because they don't have the family roots anymore. You know, I'm not saying that, that it's totally gone, but it's nothing like what it used to be.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "36"
+  }, 
+  {
+    "message": "Yeah, uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "37"
+  }, 
+  {
+    "message": "You know, in that sense.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "38"
+  }, 
+  {
+    "message": "Yeah, and also like my mom, my mom thinks, - I mean she's kind of right with it, when both partners of the marriage work, she feels that that's taking more away, that's increasing more unemployment for people that need to work.", 
+    "tag": "disgust", 
+    "user": "A", 
+    "message_id": "39"
+  }, 
+  {
+    "message": "Oh, definitely.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "40"
+  }, 
+  {
+    "message": "You know, like for, for the men that don't have jobs, if, you know, she feels if there is women out there just because they want to do it, - she said, you know, they could stay at home,", 
+    "tag": "disgust", 
+    "user": "A", 
+    "message_id": "41"
+  }, 
+  {
+    "message": "That's right, they don't want to take care of the kids.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "42"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "43"
+  }, 
+  {
+    "message": "And the house and that kind of thing. That's very true, but then they shouldn't have a family.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "44"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "45"
+  }, 
+  {
+    "message": "That's what I'm saying, you know, I think it's great that women have a choice today.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "46"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "47"
+  }, 
+  {
+    "message": "That there are ways to prevent families, you know, like basically there's contraceptives and --", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "48"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "49"
+  }, 
+  {
+    "message": "-- all kinds of ways to prevent pregnancies. There is no need to have children if you don't want them.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "50"
+  }, 
+  {
+    "message": "What do you think about that, do you think that, uh, - what do you think about the women that are not having families because they want to continue their business?", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "51"
+  }, 
+  {
+    "message": "That's fine, that's, that's the freedom of choice.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "52"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "53"
+  }, 
+  {
+    "message": "And I agree with that, because anyone who has children that doesn't really want them isn't going to be a good parent.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "54"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "55"
+  }, 
+  {
+    "message": "Well, I shouldn't say they are not going to be a good parent. They won't be a caring parent.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "56"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "57"
+  }, 
+  {
+    "message": "Like they won't have that, -", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "58"
+  }, 
+  {
+    "message": "Or they won't be as good as they could be.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "59"
+  }, 
+  {
+    "message": "Right, that's what I mean, they'll feel like it's a job.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "60"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "61"
+  }, 
+  {
+    "message": "It's not like something that they really wanted. Like I had three children, and I mean I, I wanted every one of them.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "62"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "63"
+  }, 
+  {
+    "message": "I'm not sorry I had any of them, and I worked third shift for a good part of my life just so I would be home with them.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "64"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "65"
+  }, 
+  {
+    "message": "You know, I had to work, but I tried to make it as painless as possible.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "66"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "67"
+  }, 
+  {
+    "message": "In fact, at one time I worked as a second shift, and one Saturday morning we were all sitting at the breakfast table, and the kids were talking, daddy this, daddy that, daddy this, daddy that, and I was sitting there. It was like I didn't belong anymore.", 
+    "tag": "sadness", 
+    "user": "B", 
+    "message_id": "68"
+  }, 
+  {
+    "message": "<Laughter>.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "69"
+  }, 
+  {
+    "message": "And it was because I had worked for about nine months, and when they were coming home I was going to work.", 
+    "tag": "sadness", 
+    "user": "B", 
+    "message_id": "70"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "71"
+  }, 
+  {
+    "message": "And I wasn't there at supper time or bed time, or they couldn't tell me what went on at school because they would be coming in the door, I would be going out.", 
+    "tag": "sadness", 
+    "user": "B", 
+    "message_id": "72"
+  }, 
+  {
+    "message": "Exactly.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "73"
+  }, 
+  {
+    "message": "So we were, I felt I was losing my family.", 
+    "tag": "sadness", 
+    "user": "B", 
+    "message_id": "74"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "75"
+  }, 
+  {
+    "message": "And that's why I said that's it, I either have to quit or, you know, try something else, so I went on third shift.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "76"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "77"
+  }, 
+  {
+    "message": "And I worked that shift for eleven years.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "78"
+  }, 
+  {
+    "message": "Oh, my.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "79"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "80"
+  }, 
+  {
+    "message": "<Laughter> Bless you <laughter>.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "81"
+  }, 
+  {
+    "message": "Just so that my kids would have me at home.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "82"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "83"
+  }, 
+  {
+    "message": "You know, and I feel that's very important, it really is, and it's too bad because mothers miss out on so much too.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "84"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "85"
+  }, 
+  {
+    "message": "So I mean in the sense that we've come a long way, yes, but we've sacrificed a lot to get there.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "86"
+  }, 
+  {
+    "message": "Yeah, I, I agree.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "87"
+  }, 
+  {
+    "message": "And, uh, I really think that if, uh, like after the second World War when women went to work in factories and all that, that was like out of necessity, because the men weren't here anymore.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "88"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "89"
+  }, 
+  {
+    "message": "But then it got to be a point where they got some independence.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "90"
+  }, 
+  {
+    "message": "And they just enjoyed the income, the extra.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "91"
+  }, 
+  {
+    "message": "Exactly. A man can afford the necessities, a woman affords the luxuries.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "92"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "93"
+  }, 
+  {
+    "message": "And I notice today kids, you know, - like we had apartments before we had homes.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "94"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "95"
+  }, 
+  {
+    "message": "And we had to walk before we had a car.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "96"
+  }, 
+  {
+    "message": "Exactly.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "97"
+  }, 
+  {
+    "message": "And now kids at sixteen years old, they have their birthday, what do they get, they get a car.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "98"
+  }, 
+  {
+    "message": "Oh, I know <laughter>.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "99"
+  }, 
+  {
+    "message": "And to me, it's like we've lost our values in this country.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "100"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "101"
+  }, 
+  {
+    "message": "We really have, and I, I'm not trying to be, uh, you know, a prude or old fashioned or anything, but I, I don't think if you, - unless you earn something and you've worked for it, and you have a sense of pride about it, - because while I did this in, you know, no one gave it to me.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "102"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "103"
+  }, 
+  {
+    "message": "You will take better care of that, and you will prize that possession.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "104"
+  }, 
+  {
+    "message": "Exactly.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "105"
+  }, 
+  {
+    "message": "More than someone handing something to you.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "106"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "107"
+  }, 
+  {
+    "message": "And it's just like college too, I think that if a kid goes to college, and you can help them, fine, but I don't think you should pay the whole way.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "108"
+  }, 
+  {
+    "message": "See, yeah, see, now, my parents, there is no way they could afford to send twelve kids to college.", 
+    "tag": "disgust", 
+    "user": "A", 
+    "message_id": "109"
+  }, 
+  {
+    "message": "Of course.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "110"
+  }, 
+  {
+    "message": "And so far there is only two of us that have gone, and my older brother has paid his entire way, and I'm on my, - I have six weeks left and I'll, you know, I'll graduate, and I paid my entire way, and that's the way it'll go down the line, and like I don't have a car because I'm paying for college, and if I want a car, - my parents always said if we wanted a car, we paid for the car, and we paid for our own insurance, and I think that's right because, -", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "111"
+  }, 
+  {
+    "message": "Sure, but I'll bet your values are a lot higher, you know, and your self esteem and the, the way you, uh, you know, think about things is probably --", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "112"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "113"
+  }, 
+  {
+    "message": "-- a lot more common sense --", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "114"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "115"
+  }, 
+  {
+    "message": "-- than these kids that don't have that responsibility.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "116"
+  }, 
+  {
+    "message": "Uh-huh. Like I've had my, you know, - like I know kids up here that have their own cars and money is just given to them, like they still get their allowance, they are twenty years old and they still get an allowance. Well, I have held a summer job, you know, since I, you know, I was in the eleventh grade, and I have had to take care of my own money, I have my own checking account, I pay for my own life insurance, and I know a lot of kids that don't even know, - I mean I tell them I pay for my own life insurance and their mouths just drop to the floor, you know.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "117"
+  }, 
+  {
+    "message": "Sure, they probably don't even have any.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "118"
+  }, 
+  {
+    "message": "Well, if they do, they don't know it, you know <laughter>.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "119"
+  }, 
+  {
+    "message": "Yeah, exactly, and that's what I say, you'll, you'll be so much better off for it as you get older, because, you know, a lot of kids resent things that parents tell them and stuff, but it's because you've been there.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "120"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "121"
+  }, 
+  {
+    "message": "And no one can tell anyone anything --", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "122"
+  }, 
+  {
+    "message": "Oh, I know.", 
+    "tag": "disgust", 
+    "user": "A", 
+    "message_id": "123"
+  }, 
+  {
+    "message": "-- you know, you are going to find out for yourself, but I mean I don't think you should just not listen to advice, even if you don't take it, just listen.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "124"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "125"
+  }, 
+  {
+    "message": "You know, there is no harm in that, whereas sometimes you can't even get that from a kid, you know.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "126"
+  }, 
+  {
+    "message": "<Laughter>.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "127"
+  }, 
+  {
+    "message": "<Laughter> Just attention, you know.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "128"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "129"
+  }, 
+  {
+    "message": "But really, uh, what do you feel the changes in the future, like with the abortions and that type of thing, women in politics and --", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "130"
+  }, 
+  {
+    "message": "Uh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "131"
+  }, 
+  {
+    "message": "-- president someday, maybe <laughter>. -", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "132"
+  }, 
+  {
+    "message": "Actually I think abortion is going to take a turn where there is not going to be as many, because I think contraceptives are going to be more popular. I mean I realize that they are popular now, but I think, I really think people are going to start using more contraceptives and with the abortion, I don't think there is going to be as many abortions, but I don't know what women will do when they get into politics, you know, about abortion.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "133"
+  }, 
+  {
+    "message": "Yeah, yeah.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "134"
+  }, 
+  {
+    "message": "I think it will be freedom of choice.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "135"
+  }, 
+  {
+    "message": "Well, I still think people have a choice. You know, if you can live with it, and it's, you know, your conscience is clear --", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "136"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "137"
+  }, 
+  {
+    "message": "-- then I mean all of us are going to answer to it one day, maybe.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "138"
+  }, 
+  {
+    "message": "Exactly, yeah.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "139"
+  }, 
+  {
+    "message": "Or maybe not. I don't know.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "140"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "141"
+  }, 
+  {
+    "message": "I mean no one has said for sure, you know.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "142"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "143"
+  }, 
+  {
+    "message": "But, -", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "144"
+  }, 
+  {
+    "message": "I think if a woman would get into politics or enough women get into politics, I think it will definitely be freedom of choice.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "145"
+  }, 
+  {
+    "message": "Yes, yes.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "146"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "147"
+  }, 
+  {
+    "message": "Which I mean I think it should be anyway.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "148"
+  }, 
+  {
+    "message": "I, I do. I'm Catholic, and we, we are not supposed to, you know, say that that's okay, but I really feel that it's freedom of choice.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "149"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "150"
+  }, 
+  {
+    "message": "I do.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "151"
+  }, 
+  {
+    "message": "Because I mean you as an individual, what you do, that to me is your business.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "152"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "153"
+  }, 
+  {
+    "message": "And, uh, -", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "154"
+  }, 
+  {
+    "message": "And different circumstances call for different things.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "155"
+  }, 
+  {
+    "message": "Exactly, exactly, that's ... -", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "156"
+  }
+]
