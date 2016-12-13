@@ -1,0 +1,734 @@
+[
+  {
+    "message": "So, uh, describe your family budget.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "1"
+  }, 
+  {
+    "message": "Well, I've, uh, for a lot of years I, I've ] pretty much flied without one, and, uh, just recently, uh, we, we set up a budget, and, and we're trying to stick to it. We just bought a new house. So we've got everything, you know, pretty much we know what our, uh, our fixed expenses are per month, and then we've got some ones that are variable, that pretty much stay within a certain range, and then, uh, then there's the ones that you never know anything about, and that's, that's the food budget. ]", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "2"
+  }, 
+  {
+    "message": "Well, yeah, and to some extent, utilities, I imagine.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "3"
+  }, 
+  {
+    "message": "Yeah, well, the utilities are pretty much, - you can pretty much figure what they're going to be, and one of the nice things here is the electric company has a plan where they'll average them out for you.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "4"
+  }, 
+  {
+    "message": "They have that to some extent here, but it's not quite as good.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "5"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "6"
+  }, 
+  {
+    "message": "And, uh, transportation expenses, I guess you own a car.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "7"
+  }, 
+  {
+    "message": "Yes sir.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "8"
+  }, 
+  {
+    "message": "And you know how much you're going to drive every week?", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "9"
+  }, 
+  {
+    "message": "Well, I used to, um, I used to know, uh, fairly close to exactly how many miles I drove, because I, I was very convenient, I lived, uh, nine tenths of a mile from work.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "10"
+  }, 
+  {
+    "message": "Huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "11"
+  }, 
+  {
+    "message": "So, so, it was, you know, two miles a day <laughter> to and from work. So it kind of cut my transportation costs a lot. But now I've just bought a new house, and I'm a half hour, and so my transportation costs have gone up by, uh, five times <laughter>.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "12"
+  }, 
+  {
+    "message": "Yeah, I understand that. We, we have a real similar situation. Ours, uh, have quintupled, at least. So there is a real family budget.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "13"
+  }, 
+  {
+    "message": "Yeah, pretty much, um. The problem is there never seems to be enough money. I have three children, and it seems like the more money you make, the more money you have, the more things that they seem to need, and, uh, of course, nothing ever goes down, I mean, uh, I remember, - I have five children total. I have three left in the house.", 
+    "tag": "sadness", 
+    "user": "B", 
+    "message_id": "14"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "15"
+  }, 
+  {
+    "message": "And I can remember years ago, when school would start, and I'd go buy all five kids, you know, shoes, and I could get out of the, out of the shoe store without spending more than thirty-five dollars. Nowadays, thirty-five dollars buys about one pair of shoes --", 
+    "tag": "sadness", 
+    "user": "B", 
+    "message_id": "16"
+  }, 
+  {
+    "message": "If you're lucky.", 
+    "tag": "sadness", 
+    "user": "A", 
+    "message_id": "17"
+  }, 
+  {
+    "message": "-- yeah, so I mean things have just really gone out of sight in the last, uh, I guess about the last ten years.", 
+    "tag": "anger", 
+    "user": "B", 
+    "message_id": "18"
+  }, 
+  {
+    "message": "Exempt or nonexempt.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "19"
+  }, 
+  {
+    "message": "I'm exempt.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "20"
+  }, 
+  {
+    "message": "Wow, must be nice.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "21"
+  }, 
+  {
+    "message": "<Laughter>.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "22"
+  }, 
+  {
+    "message": "Part of the high price spread. Uh, no, well, we don't, we do, but we don't have a family budget. We have the fixed things we have to pay.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "23"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "24"
+  }, 
+  {
+    "message": "And we have the things that are extras. But it seems that by and large the extras just don't exist.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "25"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "26"
+  }, 
+  {
+    "message": "And, well, you know, the auto budget, car payment sucks a hell of a lot of it dry.", 
+    "tag": "anger", 
+    "user": "A", 
+    "message_id": "27"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "28"
+  }, 
+  {
+    "message": "And insurance, is insurance bad there?", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "29"
+  }, 
+  {
+    "message": "Um, I've got, uh, two older cars. There both, - one's a seventy-seven and one's a seventy-eight.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "30"
+  }, 
+  {
+    "message": "Well, we've got one eighty-nine.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "31"
+  }, 
+  {
+    "message": "And my insurance is about, it was running about four hundred dollars a year. But when I moved to the new town I live in, - because it's a different county, which has less crime, and, uh, less, you know, less highways and so it's a cheaper place to live, as far as the insurance company's concerned, so my, my, I think my insurance dropped about sixty dollars a year.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "32"
+  }, 
+  {
+    "message": "Wow. That's not bad, four hundred and something a year. That's, that's, -", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "33"
+  }, 
+  {
+    "message": "It's actually three hundred and forty for each one of the cars.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "34"
+  }, 
+  {
+    "message": "That's cheaper than we pay.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "35"
+  }, 
+  {
+    "message": "Yeah, I was down in Texas for two years, and I was paying unbelievable rates for both car insurance and for home insurance. Um,", 
+    "tag": "anger", 
+    "user": "B", 
+    "message_id": "36"
+  }, 
+  {
+    "message": "Well, here in Colorado it's even worse because we have no fault.", 
+    "tag": "anger", 
+    "user": "A", 
+    "message_id": "37"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "38"
+  }, 
+  {
+    "message": "Do you have that there?", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "39"
+  }, 
+  {
+    "message": "they have no fault in Maryland also.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "40"
+  }, 
+  {
+    "message": "Well, no fault's rather funny in Colorado, because it seems that <<pause>> everyone pays all the time --", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "41"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "42"
+  }, 
+  {
+    "message": "-- instead of just the guilty party pays.", 
+    "tag": "anger", 
+    "user": "A", 
+    "message_id": "43"
+  }, 
+  {
+    "message": "Uh-huh. Yeah.", 
+    "tag": "anger", 
+    "user": "B", 
+    "message_id": "44"
+  }, 
+  {
+    "message": "<Laughter>.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "45"
+  }, 
+  {
+    "message": "It's kind of, it's kind of strange here the way things go. Uh, here if you have an accident and no one's injured, the police won't even show up.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "46"
+  }, 
+  {
+    "message": "You're kidding.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "47"
+  }, 
+  {
+    "message": "Nope. They say if nobody's injured, you all exchange names and take it up with your insurance company.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "48"
+  }, 
+  {
+    "message": "God.", 
+    "tag": "anger", 
+    "user": "A", 
+    "message_id": "49"
+  }, 
+  {
+    "message": "Well, if you, - I don't know how familiar you are with Maryland, but, uh, -", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "50"
+  }, 
+  {
+    "message": "Not at all.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "51"
+  }, 
+  {
+    "message": "especially, the center part of Maryland where I Ninety-Five runs through it is really heavily populated. There's just so many people and so many accidents every single day that it'd take a whole another police force just to answer the traffic.", 
+    "tag": "anger", 
+    "user": "B", 
+    "message_id": "52"
+  }, 
+  {
+    "message": "They don't even try to keep up with it.", 
+    "tag": "anger", 
+    "user": "A", 
+    "message_id": "53"
+  }, 
+  {
+    "message": "No.", 
+    "tag": "anger", 
+    "user": "B", 
+    "message_id": "54"
+  }, 
+  {
+    "message": "God.", 
+    "tag": "anger", 
+    "user": "A", 
+    "message_id": "55"
+  }, 
+  {
+    "message": "Not a bit.", 
+    "tag": "anger", 
+    "user": "B", 
+    "message_id": "56"
+  }, 
+  {
+    "message": "So you lived in Texas for a while.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "57"
+  }, 
+  {
+    "message": "Yes sir.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "58"
+  }, 
+  {
+    "message": "Huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "59"
+  }, 
+  {
+    "message": "I spent, uh, couple of years down there. Moved down there in eighty-seven and moved out in eighty-nine.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "60"
+  }, 
+  {
+    "message": "Are, where you from originally.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "61"
+  }, 
+  {
+    "message": "Uh, right here in Maryland.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "62"
+  }, 
+  {
+    "message": "Huh, so you just basically went home when you had a chance.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "63"
+  }, 
+  {
+    "message": "Yeah, my family, uh, didn't like Texas, and I had a chance to, uh, transfer up. T I bought a company about seven months after I moved to Texas, right here in .", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "64"
+  }, 
+  {
+    "message": "That's nice.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "65"
+  }, 
+  {
+    "message": "So I got an opportunity to transfer back, and I took it.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "66"
+  }, 
+  {
+    "message": "God, that's great. Uh, I'm a native Texan.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "67"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "68"
+  }, 
+  {
+    "message": "West Texan.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "69"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "70"
+  }, 
+  {
+    "message": "There is a difference.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "71"
+  }, 
+  {
+    "message": "Yeah, believe me, I know there is. I lived in Plano, and I don't know if you're familiar with Plano --", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "72"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "73"
+  }, 
+  {
+    "message": "-- but Plano, maybe five percent of the Plano actually were from Texas. Everybody else was an import.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "74"
+  }, 
+  {
+    "message": "Well, I'm a West Texan.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "75"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "76"
+  }, 
+  {
+    "message": "Lubbock, Midland Odessa --", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "77"
+  }, 
+  {
+    "message": "Yes.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "78"
+  }, 
+  {
+    "message": "-- Amarillo, Dumas, Panhandle.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "79"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "80"
+  }, 
+  {
+    "message": "A different world from down there.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "81"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "82"
+  }, 
+  {
+    "message": "So, uh, Colorado's been fun. But they have a real problem. Next to every window the state seems to have put up a turnstile. And every time you look at a, look at the mountains --", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "83"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "84"
+  }, 
+  {
+    "message": "-- or think about looking at the mountains, you got to throw in a dollar.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "85"
+  }, 
+  {
+    "message": "<Laughter>.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "86"
+  }, 
+  {
+    "message": "Or so it seems. I may just be paranoid, but that state income tax is just eating me alive.", 
+    "tag": "anger", 
+    "user": "A", 
+    "message_id": "87"
+  }, 
+  {
+    "message": "Yeah, yeah, they have a state income tax in Maryland. But I noticed when I was in the, in the, in Texas, they didn't have a state income tax, but they sure nailed you on those darn county taxes and,", 
+    "tag": "anger", 
+    "user": "B", 
+    "message_id": "88"
+  }, 
+  {
+    "message": "Yeah, yeah.", 
+    "tag": "anger", 
+    "user": "A", 
+    "message_id": "89"
+  }, 
+  {
+    "message": "school taxes and property taxes,", 
+    "tag": "anger", 
+    "user": "B", 
+    "message_id": "90"
+  }, 
+  {
+    "message": "Property taxes and, -", 
+    "tag": "anger", 
+    "user": "A", 
+    "message_id": "91"
+  }, 
+  {
+    "message": "Oh my God, ate you alive.", 
+    "tag": "anger", 
+    "user": "B", 
+    "message_id": "92"
+  }, 
+  {
+    "message": "Yeah, well, Colorado, ins-, you know they have the state income tax, but then they also have property taxes, and they also have sales taxes, and they just get you every direction they can.", 
+    "tag": "anger", 
+    "user": "A", 
+    "message_id": "93"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "94"
+  }, 
+  {
+    "message": "And I just don't know, sir, but it seems like they trying to get you every which way.", 
+    "tag": "anger", 
+    "user": "A", 
+    "message_id": "95"
+  }, 
+  {
+    "message": "Yeah, it sure does. Um, there's, uh, some good books that I've read, um, that you might be interested in. Uh --", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "96"
+  }, 
+  {
+    "message": "Oh yeah?", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "97"
+  }, 
+  {
+    "message": "-- Charles D. Gibbons is the guy who runs some ads on light night T V and he's got seminars you can go to, and they try to hook you into his organization, which costs about four hundred bucks. But he's got a couple of books out. One of them is called, uh, WEALTH WITHOUT RISK.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "98"
+  }, 
+  {
+    "message": "I've heard of the book.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "99"
+  }, 
+  {
+    "message": "Yes, it's a very good book. It's tells you how to cut money on your taxes and on your insurance and then --", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "100"
+  }, 
+  {
+    "message": "Legally?", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "101"
+  }, 
+  {
+    "message": "-- what to do with the money that you save.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "102"
+  }, 
+  {
+    "message": "Legally,", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "103"
+  }, 
+  {
+    "message": "Yes, yes,", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "104"
+  }, 
+  {
+    "message": "cut money on your taxes. Huh.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "105"
+  }, 
+  {
+    "message": "legally, legally cut money on your taxes, and on your insurance, and then he tells you how to invest that money in order to, uh, you know, be wealthier. Uh, he also has a new book out that I purchased right before I moved and haven't had a chance to crack it open yet. Um, FINANCIAL SELF DEFENSE is the name of it. Uh, the man, uh, has a lot of good ideas, some of them I already knew about, some of them I had already practiced. But I suggest it to anyone who wants to be better off financially to read it because, uh, -", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "106"
+  }, 
+  {
+    "message": "And that includes everyone at T I.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "107"
+  }, 
+  {
+    "message": "<Laughter> Yes, I'm one of the ones that had my salary frozen for ninety-one. Yes.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "108"
+  }, 
+  {
+    "message": "Well, even, the, you know, the nonexempts, technically yet we haven't had our salary frozen yet.", 
+    "tag": "anger", 
+    "user": "A", 
+    "message_id": "109"
+  }, 
+  {
+    "message": "Yet.", 
+    "tag": "anger", 
+    "user": "B", 
+    "message_id": "110"
+  }, 
+  {
+    "message": "But when you're only at living wage it doesn't matter.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "111"
+  }, 
+  {
+    "message": "<Laughter>.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "112"
+  }, 
+  {
+    "message": "You know, survival is a funny state.", 
+    "tag": "disgust", 
+    "user": "A", 
+    "message_id": "113"
+  }, 
+  {
+    "message": "Yeah, I know what you mean. I, uh, when I was in Dallas I was supervisor, and I had four non exempts, um, under me.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "114"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "115"
+  }, 
+  {
+    "message": "And, uh, I was appalled at what, how they were paying them. I just couldn't believe it.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "116"
+  }, 
+  {
+    "message": "Did, well, I've been with the company for sixteen years now. I was a W F for several years, and it just n-, never seems to improve. It, and it doesn't seem to get much better for the exempts either, unless you're twenty-eight or above.", 
+    "tag": "disgust", 
+    "user": "A", 
+    "message_id": "117"
+  }, 
+  {
+    "message": "Yeah, yeah.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "118"
+  }, 
+  {
+    "message": "It's really a shame.", 
+    "tag": "disgust", 
+    "user": "A", 
+    "message_id": "119"
+  }, 
+  {
+    "message": "Well, I, I've, this company that they bought, they ended up buying a very high payroll.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "120"
+  }, 
+  {
+    "message": "Oh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "121"
+  }, 
+  {
+    "message": "And, uh, the, you know, I thought I was making a good wage,", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "122"
+  }
+]
