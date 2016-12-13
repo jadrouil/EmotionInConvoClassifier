@@ -2,10 +2,10 @@
 
 import json, sys
 
-with open('datasets/convo-combined.json', 'w') as f_combined:
+with open('convo-combined.json', 'w') as f_combined:
+    convos = []
     for i in range(int(sys.argv[1])):
-        convos = []
-        with open('datasets/convo-{}.json'.format(i)) as f_ind:
+        with open('convo-{}.json'.format(i)) as f_ind:
             convos.append({
               'conversation_id': i,
               'conversation': json.loads(f_ind.read())
