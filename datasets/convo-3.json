@@ -1,0 +1,698 @@
+[
+  {
+    "message": "Hi. How are you doing?", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "1"
+  }, 
+  {
+    "message": "What, I couldn't hear you?", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "2"
+  }, 
+  {
+    "message": "I said, how are you doing?", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "3"
+  }, 
+  {
+    "message": "I'm doing fine. I'm, uh, just editing a spreadsheet right now. I'm trying to figure out how I can retire without having to work until I'm ninety-five.", 
+    "tag": "fear", 
+    "user": "B", 
+    "message_id": "4"
+  }, 
+  {
+    "message": "Yeah. We've been doing that too <laughter>. We're trying to retire in our fifties.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "5"
+  }, 
+  {
+    "message": "Yeah. This is a very appropriate topic for our, uh, conversation today because what I'm figuring out is that I'm going to have to put in a lot more money than what I'm making <laughter>.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "6"
+  }, 
+  {
+    "message": "<Laughter> Good luck on that one, then.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "7"
+  }, 
+  {
+    "message": "What is that?", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "8"
+  }, 
+  {
+    "message": "I said good luck on that one, then.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "9"
+  }, 
+  {
+    "message": "Well, we've got a pretty good situation, my wife and I, since our property is already paid for. You know, the main things that I like about the uh, <talking> <<someone in background>> the job benefits --", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "10"
+  }, 
+  {
+    "message": "Huh-uh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "11"
+  }, 
+  {
+    "message": "-- would be the, uh, the availability of the health insurance and the availability of, uh, you know, being able to transfer around, inside the organization without having, you know, when they cut off a system and they don't just can everybody that is working on it, like some companies I know of. You know, they give you an opportunity to either transfer into an on going, on going project. -", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "12"
+  }, 
+  {
+    "message": "So you work for it T I then <music>. <<pause>> You can't say?", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "13"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "14"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "15"
+  }, 
+  {
+    "message": "What?", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "16"
+  }, 
+  {
+    "message": "Yes, you do. Well, I work for D I S D and I don't know what your talking about when you say health insurance, but Dallas doesn't pay. It pays most of mine, you know, now, after you work I think five years, they begin to pay most of it. But then, for the, the family, you know, I put my kids on my policy. It's like two hundred dollars --", 
+    "tag": "disgust", 
+    "user": "A", 
+    "message_id": "17"
+  }, 
+  {
+    "message": "Huh-uh.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "18"
+  }, 
+  {
+    "message": "-- and it's gone up quite a bit and they predict, you know, of course, it's going to keep going up. I wish they could go on and pay for all of our coverage, at some point. And benefits, you know, - I'd like to see child care paid for or on-site child care sometime. I think that would be a , -", 
+    "tag": "sadness", 
+    "user": "A", 
+    "message_id": "19"
+  }, 
+  {
+    "message": "Huh-uh.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "20"
+  }, 
+  {
+    "message": "and it would make women go to work sometime if they knew their kids were being taken care of. They could go visit them during the day. What?", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "21"
+  }, 
+  {
+    "message": "Yeah that's uh, something I hadn't really thought about because we don't have children. But, I can see how it would be a a real benefit. Yes I do.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "22"
+  }, 
+  {
+    "message": "Well, we keep a shelter, also monies that we're going to pay in for child care too. You know, go on and pay a lump sum and as long as you pay that amount you're okay. But if you paid in more than you actually used, and the same thing for insurance, what you predict your going to be paying for insurance, as long as you pay, actually pay out that amount of money, you're okay. But if you pay out less, then you lose that money.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "23"
+  }, 
+  {
+    "message": "Um.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "24"
+  }, 
+  {
+    "message": "I don't like that part, but you don't have to do that option if you don't want to.", 
+    "tag": "disgust", 
+    "user": "A", 
+    "message_id": "25"
+  }, 
+  {
+    "message": "Well, that could be, I could see where that would be important.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "26"
+  }, 
+  {
+    "message": "And then we got that cafeteria plan, do you have that?", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "27"
+  }, 
+  {
+    "message": "No.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "28"
+  }, 
+  {
+    "message": "No.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "29"
+  }, 
+  {
+    "message": "I don't know what it's about .", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "30"
+  }, 
+  {
+    "message": "You can, uh, - well you, - let's see, it, it shelters you're money that you pay for, for insurance. It takes it out of your salary before taxes.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "31"
+  }, 
+  {
+    "message": "Oh, okay. Yeah, yeah we got that.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "32"
+  }, 
+  {
+    "message": "Okay.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "33"
+  }, 
+  {
+    "message": "Pretax insurance?", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "34"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "35"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "36"
+  }, 
+  {
+    "message": "But we call it the cafeteria plan, I wonder why.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "37"
+  }, 
+  {
+    "message": "Um?", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "38"
+  }, 
+  {
+    "message": "I said, I wonder why.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "39"
+  }, 
+  {
+    "message": "Oh, it's probably what the first guy who did it, called it.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "40"
+  }, 
+  {
+    "message": "Cafeteria?", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "41"
+  }, 
+  {
+    "message": "Yeah. He was probably in the cafeteria when he thought of it <laughter>.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "42"
+  }, 
+  {
+    "message": "<Laughter> Maybe so. Let's see what else can we do? Changes, -", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "43"
+  }, 
+  {
+    "message": "I'll tell you what we could do.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "44"
+  }, 
+  {
+    "message": "What?", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "45"
+  }, 
+  {
+    "message": "We could prohibit people from being hired that are historically going to cost the company money. You know, do a little bit better research on who gets hired --", 
+    "tag": "anger", 
+    "user": "B", 
+    "message_id": "46"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "47"
+  }, 
+  {
+    "message": "-- Because you know, -", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "48"
+  }, 
+  {
+    "message": "You mean, like for health insurance?", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "49"
+  }, 
+  {
+    "message": "Well, not only just health insurance, I mean for the whole benefit of the company. See, I look at it this way. If the company folds, I got to go find a job.", 
+    "tag": "fear", 
+    "user": "B", 
+    "message_id": "50"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "51"
+  }, 
+  {
+    "message": "Okay. Now, if we got somebody in a position to affect the way the company performs, just about anybody in the company, and they're not doing their job or they're not capable of doing their job, then we should find (A) a place to put them or (B) you know, boot them out.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "52"
+  }, 
+  {
+    "message": "Well, that's easier done in a company than it is in, uh, school teaching.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "53"
+  }, 
+  {
+    "message": "Well, frankly, I think school teachers ought to get about ten times what they're getting paid.", 
+    "tag": "anger", 
+    "user": "B", 
+    "message_id": "54"
+  }, 
+  {
+    "message": "<Breathing> Thank you <laughter>.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "55"
+  }, 
+  {
+    "message": "What?", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "56"
+  }, 
+  {
+    "message": "I said, thank you.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "57"
+  }, 
+  {
+    "message": "Oh.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "58"
+  }, 
+  {
+    "message": "We're both school teachers.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "59"
+  }, 
+  {
+    "message": "Oh, I'm, I'm, -", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "60"
+  }, 
+  {
+    "message": "But it's hard to get rid of a teacher if they're not good.", 
+    "tag": "disgust", 
+    "user": "A", 
+    "message_id": "61"
+  }, 
+  {
+    "message": "I know.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "62"
+  }, 
+  {
+    "message": "It's almost impossible.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "63"
+  }, 
+  {
+    "message": "Well, there's two schools of thought on that. You know, I, I'm looking at trying to get into a university job position as a a professor --", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "64"
+  }, 
+  {
+    "message": "Huh-uh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "65"
+  }, 
+  {
+    "message": "-- I got about eight years of education ahead of me before I can do that --", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "66"
+  }, 
+  {
+    "message": "Um.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "67"
+  }, 
+  {
+    "message": "-- but, once you get that job with the university, you've got ten years of probation.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "68"
+  }, 
+  {
+    "message": "Huh-uh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "69"
+  }, 
+  {
+    "message": "Then you have tenure. And they can't fire you.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "70"
+  }, 
+  {
+    "message": "Huh-uh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "71"
+  }, 
+  {
+    "message": "Well, you know, in a situation like that, I don't know if that's good or bad. I do know that I've had tenured professors that were just sorry.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "72"
+  }, 
+  {
+    "message": "Right.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "73"
+  }, 
+  {
+    "message": "And I've also had tenured professors that were the best things on two legs.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "74"
+  }, 
+  {
+    "message": "Well, they did away with tenure in teaching along time ago, you know, in the public schools.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "75"
+  }, 
+  {
+    "message": "But in addition. -", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "76"
+  }, 
+  {
+    "message": "It makes you more at ease. You know, you knew you weren't going to lose your job unless you really did something horrendous.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "77"
+  }, 
+  {
+    "message": "Well, they, they really can't fire you without cause, you know the governments taken care of that, but, um, what I'm looking at is, you know, there are a lot of teachers that aren't getting paid what they need to be getting paid, and there are some teachers <noise> out there that aren't worth having around as janitors.", 
+    "tag": "anger", 
+    "user": "B", 
+    "message_id": "78"
+  }, 
+  {
+    "message": "Right.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "79"
+  }, 
+  {
+    "message": "You know, and I could see a point protecting someone's position, but, on the other hand, I don't think it, you know, that someone that teaches, uh, say shop, for instance, should have to have degree at all.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "80"
+  }, 
+  {
+    "message": "Well they don't.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "81"
+  }, 
+  {
+    "message": "Well. -", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "82"
+  }, 
+  {
+    "message": "In some places they don't.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "83"
+  }, 
+  {
+    "message": "In some places that don't.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "84"
+  }, 
+  {
+    "message": "Do they?", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "85"
+  }, 
+  {
+    "message": "But, you know, you, you get specialized education now, for instance, take computer science. We've got kids twenty years old, right now, that could beat any computer professor at micro computer applications. I know we could. And these people can't even get jobs doing anything besides digging ditches, because there's no comprehensive test that they can take, that would allow them to, to step into that position without having to go through the rigamarole of college.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "86"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "87"
+  }, 
+  {
+    "message": "You know, I went to college late on in life and I realize that hey, it's nothing but four years of endurance and you might be teachable, you know what I mean?", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "88"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "89"
+  }, 
+  {
+    "message": "I mean, my agree is absolutely worthless.", 
+    "tag": "anger", 
+    "user": "B", 
+    "message_id": "90"
+  }, 
+  {
+    "message": "<Laughter>.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "91"
+  }, 
+  {
+    "message": "It's my experience and, and my knowledge that, that is beneficial, but then, you know, like I said, I came in backwards.", 
+    "tag": "anger", 
+    "user": "B", 
+    "message_id": "92"
+  }, 
+  {
+    "message": "What did you get your degree at?", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "93"
+  }, 
+  {
+    "message": "Industrial Marketing.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "94"
+  }, 
+  {
+    "message": "And what's your job now?", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "95"
+  }, 
+  {
+    "message": "Well, actually I'm selling computer software. But, the two are mutually exclusive. Because, <noise> the, the experience that got me the job that I got now, was my experience in the construction field, prior to going to college --", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "96"
+  }, 
+  {
+    "message": "Huh-uh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "97"
+  }, 
+  {
+    "message": "-- not my degree, which is I think kind of bizarre.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "98"
+  }, 
+  {
+    "message": "Maybe. All right, what else could we change? Oh, I'd like to see flexible hours. And teaching,", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "99"
+  }, 
+  {
+    "message": "Well uh,", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "100"
+  }, 
+  {
+    "message": "shared, job sharing,", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "101"
+  }, 
+  {
+    "message": "We've, +", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "102"
+  }, 
+  {
+    "message": "more of that.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "103"
+  }, 
+  {
+    "message": "we've, we've already got that.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "104"
+  }, 
+  {
+    "message": "Well, see, we've got a little bit of it, but not much. It would be nice if you had full insurance coverage if you were doing job sharing. What else. I'd like to be able to, to evaluate your boss and it really carry some weight, and you get to choose your boss.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "105"
+  }, 
+  {
+    "message": "Well, - yeah. Supervisor evaluations have always been a tough one. Especially in my line, because, you know, my supervisor has nothing to with my job, except to make sure I get my check.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "106"
+  }, 
+  {
+    "message": "Huh-uh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "107"
+  }, 
+  {
+    "message": "<Laughter>.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "108"
+  }, 
+  {
+    "message": "Well, so you get to evaluate him though?", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "109"
+  }, 
+  {
+    "message": "Well, not really. You know, I mean, there's, what's to evaluate about him, you know, I mean, my, my, supervisor level is like practically zero. I run the whole show. And when I need something, I tell my boss and he gets it for me, because he knows, that I know, what I'm doing.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "110"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "111"
+  }, 
+  {
+    "message": "You know, and uh, that, that is something that I think needs to be expanded on, specially in the large market place. You know, the major corporation, because so often, you know, you get a guy who's got eight or nine or ten people working for him in separate areas --", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "112"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "113"
+  }, 
+  {
+    "message": "-- so to speak. You know, it's, it's hard for me to, you know, especially since I'm in marketing sales, you know, I make more than my boss. Because he's salary and I'm not. I make as much as I earn. You know, if I don't make a sale, I don't make anything <laughter>.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "114"
+  }, 
+  {
+    "message": "Huh-uh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "115"
+  }, 
+  {
+    "message": "Yeah. Well it's tough, but, uh, you know, there are requirements, and quotas, what not, for me to make, but, um, the bottom line on, on that kind of thing is, you know, we have a lot of people, especially in major corporations, who aren't doing a damn thing. They're just there. You know, the work they do could be totally eliminated, and not that they aren't worth or not that they aren't trying or anything. But, it's just that their jobs are useless. Take, for instance, um, a large construction company I used to work for. Ed Swampers. Swampers is a guy, who's in the union. He's a laborer. And he's assigned to, -", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "116"
+  }
+]
