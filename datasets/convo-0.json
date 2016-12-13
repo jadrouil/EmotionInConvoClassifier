@@ -1,0 +1,668 @@
+[
+  {
+    "message": "Uh, do you have a pet Randy?", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "1"
+  }, 
+  {
+    "message": "Uh, yeah, currently we have a poodle.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "2"
+  }, 
+  {
+    "message": "A poodle, miniature or, uh, full size?", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "3"
+  }, 
+  {
+    "message": "Yeah, uh, it's, uh miniature.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "4"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "5"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "6"
+  }, 
+  {
+    "message": "I read somewhere that, the poodles is one of the, the most intelligent dogs, uh, around.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "7"
+  }, 
+  {
+    "message": "Well, um, I wouldn't, uh, I definitely wouldn't dispute that, it, it's actually my wife's dog, uh, I, I became part owner six months ago when we got married, but, uh, it, uh, definitely responds to, uh, to authority and, I've had dogs in the past and, uh, it seems, it seems to, uh, respond real well, it, it - she's, she's picked up a lot of things, uh, just, just by, uh, teaching by force, I guess is what I'd like to say.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "8"
+  }, 
+  {
+    "message": "Oh, uh-huh. So, you, you've only known the dog, wh-, how long did you say.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "9"
+  }, 
+  {
+    "message": "Well, about a year I guess.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "10"
+  }, 
+  {
+    "message": "Oh, well, uh, is it, uh, uh, - how old is the dog?", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "11"
+  }, 
+  {
+    "message": "It just turned two, I believe.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "12"
+  }, 
+  {
+    "message": "Oh, it's still just a pup.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "13"
+  }, 
+  {
+    "message": "Pretty much, yeah, yeah.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "14"
+  }, 
+  {
+    "message": "Yeah, I have a, uh, well a mutt, myself. I call it a, uh, uh, Chowperd .", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "15"
+  }, 
+  {
+    "message": "Okay.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "16"
+  }, 
+  {
+    "message": "It's, uh, part Chow and part Shepherd and it, - as I understand it, uh, both sides of the, were thoroughbreds. So, she's a genuine Chowperd .", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "17"
+  }, 
+  {
+    "message": "Oh, that sounds interesting.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "18"
+  }, 
+  {
+    "message": "She has the, the color and the black to-, tongue of a Chow, but, uh, she has the shap-, the shape of the, uh, uh, Shepherd.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "19"
+  }, 
+  {
+    "message": "Oh, that's, that's neat. How, about how big then?", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "20"
+  }, 
+  {
+    "message": "Oh, she weighs in at about fifty pounds, so she's a medium size.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "21"
+  }, 
+  {
+    "message": "Yeah, yeah.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "22"
+  }, 
+  {
+    "message": "But she's big enough to be intimidating,", 
+    "tag": "fear", 
+    "user": "A", 
+    "message_id": "23"
+  }, 
+  {
+    "message": "Most definitely.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "24"
+  }, 
+  {
+    "message": "it is a fi-, fixed female, by the way,", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "25"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "26"
+  }, 
+  {
+    "message": "and right from day one, she was teaching me.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "27"
+  }, 
+  {
+    "message": "Oh, I wouldn't doubt it, yeah.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "28"
+  }, 
+  {
+    "message": "<Laughter> She's the most intelligent dog I've ever seen. Course, I'm a little prejudiced, of course.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "29"
+  }, 
+  {
+    "message": "Well that's understandable, yeah, it's, uh, -", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "30"
+  }, 
+  {
+    "message": "<Throat_clearing> You know, the first time I brought her home, she was only, uh, was it six weeks old. And I spread the newspapers out in the kitchen area.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "31"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "32"
+  }, 
+  {
+    "message": "But, uh, next morning, she let me know in no uncertain terms that she wanted to use the bathroom.", 
+    "tag": "disgust", 
+    "user": "A", 
+    "message_id": "33"
+  }, 
+  {
+    "message": "Okay.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "34"
+  }, 
+  {
+    "message": "So, on next night, I spread the newspaper in the bathroom and she used them there.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "35"
+  }, 
+  {
+    "message": "Oh.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "36"
+  }, 
+  {
+    "message": "But it wasn't too long until she, uh, found out she could wait until I let her out in the morning.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "37"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "38"
+  }, 
+  {
+    "message": "And since then, - I, I live alone,", 
+    "tag": "sadness", 
+    "user": "A", 
+    "message_id": "39"
+  }, 
+  {
+    "message": "Okay.", 
+    "tag": "sadness", 
+    "user": "B", 
+    "message_id": "40"
+  }, 
+  {
+    "message": "and, uh, I live in motor home, by the way, I'm, uh, an R V, full time R V -er, and it's, it's such a pleasure to come home at night and you can see her smiling from ear to ear, she's so happy to see me.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "41"
+  }, 
+  {
+    "message": "<Laughter> Yeah, definitely.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "42"
+  }, 
+  {
+    "message": "And, uh, I don't know if you get that kind of greeting or not.", 
+    "tag": "sadness", 
+    "user": "A", 
+    "message_id": "43"
+  }, 
+  {
+    "message": "Yeah, I can honestly say we do, uh, we, uh, just recently put a security system in our house and so now, uh, in order to, uh, to accommodate the motion detectors we have to keep her, uh, uh, locked up in the, the master bedroom during the day and then she's got the, the bedroom and the bathroom to, for free run during the day but,", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "44"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "45"
+  }, 
+  {
+    "message": "we've always got, uh, got a nose and tongue pressed up against the window when we come walking up to the front door.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "46"
+  }, 
+  {
+    "message": "<Laughter>.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "47"
+  }, 
+  {
+    "message": "She's definitely ready to get out and run around.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "48"
+  }, 
+  {
+    "message": "Well my dog's an outdoor type, she does not like to be indoors.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "49"
+  }, 
+  {
+    "message": "Really.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "50"
+  }, 
+  {
+    "message": "Uh, she'd rather sle-, sleep outside on the, the cold ground at night.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "51"
+  }, 
+  {
+    "message": "Oh wow.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "52"
+  }, 
+  {
+    "message": "But, uh, I do make her come in.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "53"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "54"
+  }, 
+  {
+    "message": "And I feed her indoors, that's to lure her in, but during the day I have her on a, uh, on a leash,", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "55"
+  }, 
+  {
+    "message": "Okay.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "56"
+  }, 
+  {
+    "message": "which is, uh, on sort of a run. I have a, a thirty foot cable,", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "57"
+  }, 
+  {
+    "message": "Okay.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "58"
+  }, 
+  {
+    "message": "running from one stake to another, and then attached to that is a, uh, twelve foot leash,", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "59"
+  }, 
+  {
+    "message": "Okay.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "60"
+  }, 
+  {
+    "message": "so she can cover quite an area.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "61"
+  }, 
+  {
+    "message": "Most definitely.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "62"
+  }, 
+  {
+    "message": "And, uh, she's the best, uh, burglar alarm going.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "63"
+  }, 
+  {
+    "message": "Yeah, yeah, <laughter> yeah that's, uh, definite security involved in, uh, in a dog like that.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "64"
+  }, 
+  {
+    "message": "Oh, yeah, she, uh, - it's the strangest thing, though, uh, children, no matter how strange they are, or how new they might be can walk, uh, right up to her,", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "65"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "66"
+  }, 
+  {
+    "message": "but adults, if they're strange to her, or, or they look suspicious or something, boy she acts like she wants to chew their leg off.", 
+    "tag": "fear", 
+    "user": "A", 
+    "message_id": "67"
+  }, 
+  {
+    "message": "Wow.", 
+    "tag": "fear", 
+    "user": "B", 
+    "message_id": "68"
+  }, 
+  {
+    "message": "And I have not discovered yet where the, the line is between children and adults.", 
+    "tag": "fear", 
+    "user": "A", 
+    "message_id": "69"
+  }, 
+  {
+    "message": "Yeah, that's interesting.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "70"
+  }, 
+  {
+    "message": "But, uh, she is a great comfort to me.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "71"
+  }, 
+  {
+    "message": "Yeah, I know our dog has had, uh, some different reactions, she's never really been around children and, uh, if, if the child is, is pretty straight forward, um, she's fine. If, if a child is a little intimidated, she'll jump around and, and yip and bark quite a bit, and if the child gets scared, uh, she's still trying to play, but she doesn't completely understand what's going on and we've had a little confusion with, with, uh, with younger kids.", 
+    "tag": "fear", 
+    "user": "B", 
+    "message_id": "72"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "73"
+  }, 
+  {
+    "message": "But, uh, you know, that's, it's a matter of exposure really. Um, we, uh, took her home to, uh, my family's place in South Dakota, and she was the one that was intimidated then. There was about seven kids ranging from about, uh, three years to ten years running around the house all at one time,", 
+    "tag": "fear", 
+    "user": "B", 
+    "message_id": "74"
+  }, 
+  {
+    "message": "Oh, uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "75"
+  }, 
+  {
+    "message": "you know come to visit Grandpa and Grandma and, the dog kind of, kind of felt out of place then because she was, she was being fed, and everything else from all directions. She really didn't know how to handle herself.", 
+    "tag": "sadness", 
+    "user": "B", 
+    "message_id": "76"
+  }, 
+  {
+    "message": "You mean she didn't appreciate all that attention.", 
+    "tag": "sadness", 
+    "user": "A", 
+    "message_id": "77"
+  }, 
+  {
+    "message": "She really did, she just, uh, she, she was alm-, she was just inundated with, with all the attention. Uh, she, she kind of, she kind of sat and it all in for a little while and then she'd go get back in and try to play and, and what not, but, uh, it was, it was just such a, such a new experience for her. She's only been around one and, and sometimes two people at the most so, uh. -", 
+    "tag": "sadness", 
+    "user": "B", 
+    "message_id": "78"
+  }, 
+  {
+    "message": "Uh-huh. What's her name by the way?", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "79"
+  }, 
+  {
+    "message": "Uh, pardon?", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "80"
+  }, 
+  {
+    "message": "What, what do you call the dog?", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "81"
+  }, 
+  {
+    "message": "Oh, it's, uh, Mitzi.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "82"
+  }, 
+  {
+    "message": "Mitzi.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "83"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "84"
+  }, 
+  {
+    "message": "Mine is Gin.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "85"
+  }, 
+  {
+    "message": "Oh, okay.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "86"
+  }, 
+  {
+    "message": "As in, uh, martini.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "87"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "88"
+  }, 
+  {
+    "message": "<Laughter> Actually, it's Gin two.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "89"
+  }, 
+  {
+    "message": "I, I see.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "90"
+  }, 
+  {
+    "message": "Because, uh, when I was a teenager, in high school, I had Gin one, but then when I went out in the world, I couldn't take her with me.", 
+    "tag": "sadness", 
+    "user": "A", 
+    "message_id": "91"
+  }, 
+  {
+    "message": "Yeah, yeah, yeah, I had, uh, a similar, uh, experience. I, I grew up on a farm so I always had, uh, outdoor pets and,", 
+    "tag": "sadness", 
+    "user": "B", 
+    "message_id": "92"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "sadness", 
+    "user": "A", 
+    "message_id": "93"
+  }, 
+  {
+    "message": "uh, the dog I had when I moved to Dallas about five years ago was a, uh, Springer Spaniel, black Lab cross. And he was a real, a real lovable type,", 
+    "tag": "sadness", 
+    "user": "B", 
+    "message_id": "94"
+  }, 
+  {
+    "message": "Oh yeah.", 
+    "tag": "sadness", 
+    "user": "A", 
+    "message_id": "95"
+  }, 
+  {
+    "message": "but, uh, definitely not an apartment type animal so he, uh, he had to stay home.", 
+    "tag": "sadness", 
+    "user": "B", 
+    "message_id": "96"
+  }, 
+  {
+    "message": "Oh, what a shame.", 
+    "tag": "sadness", 
+    "user": "A", 
+    "message_id": "97"
+  }, 
+  {
+    "message": "Yeah, yeah, it really was. He, uh, apparently had a tough time with it for a little while and then he, he got, he came to accept the fact that Mom and Dad were his company from then on, but, uh. -", 
+    "tag": "sadness", 
+    "user": "B", 
+    "message_id": "98"
+  }, 
+  {
+    "message": "Uh-huh, oh well.", 
+    "tag": "sadness", 
+    "user": "A", 
+    "message_id": "99"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "sadness", 
+    "user": "B", 
+    "message_id": "100"
+  }, 
+  {
+    "message": "Well Randy, we've just about used up our time here,", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "101"
+  }, 
+  {
+    "message": "Okay.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "102"
+  }, 
+  {
+    "message": "and I must say it was interesting.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "103"
+  }, 
+  {
+    "message": "Most definitely.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "104"
+  }, 
+  {
+    "message": "I enjoyed talking about pets with you.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "105"
+  }, 
+  {
+    "message": "Well that's great.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "106"
+  }, 
+  {
+    "message": "Maybe we'll get together again in the future.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "107"
+  }, 
+  {
+    "message": "That sounds real good.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "108"
+  }, 
+  {
+    "message": "Take care now.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "109"
+  }, 
+  {
+    "message": "You too.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "110"
+  }, 
+  {
+    "message": "Bye.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "111"
+  }
+]
