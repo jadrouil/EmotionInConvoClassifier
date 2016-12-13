@@ -7,7 +7,7 @@ def createConversationEmotionTagger(emotionFile = "../datasets/emotions.txt", co
 	emotions = set([])
 	with open(emotionFile) as emotionF:
 		for line in emotionF:
-			emotions.add(line.strip())
+			emotions.add(line.strip().lower())
 
 
 	naiveBayesCalculator = naiveBayeser()

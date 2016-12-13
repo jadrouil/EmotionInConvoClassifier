@@ -4,7 +4,7 @@ class message:
 	'''container for data that will be used by algorithm to label emotion'''
 	def __init__(self, content, eTag, userId):
 		self._content = content
-		self._eTag = eTag
+		self._eTag = eTag.lower()
 		assert(userId in (1,2))
 		self._userId = userId #possible values are 1 or 2
 
