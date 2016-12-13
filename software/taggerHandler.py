@@ -5,12 +5,12 @@ from accuracyTracking import accuracyTracker
 
 import sys
 
+emotionFile = sys.argv[1]
+conversationTrainfile = sys.argv[2]
+bayesTrainFile = sys.argv[3]
+hotwordsTrainFile = sys.argv[4]
+testfile = sys.argv[5]
 
-testfile = sys.argv[4]
-
-conversationTrainfile = sys.argv[1]
-bayesTrainFile = sys.argv[2]
-hotwordsTrainFile = sys.argv[3]
 cet = createConversationEmotionTagger(conversationTrainfile, bayesTrainFile, hotwordsTrainFile)
 
 
@@ -21,10 +21,10 @@ with open(testfile) as testData:
 	convo = getConvo(testData)
 	while convo:
 		result = cet.test(convo)
-		output.write(result)
+		output.write(result, convo)
 		aT.compare(result, convo)
 		convo = getConvo(testData)
 
 
 
-print "Labeld emotions with ", aT.accuracy(), " accuracy."
+print "Labeld emotions with ", aT.accuracy(), " percent accuracy."

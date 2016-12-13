@@ -1,4 +1,4 @@
-
+from conversationExtract import * 
 import csv
 
 def hotwordsTrain(hotwordsFile,naiveBayesCalculator):
@@ -19,3 +19,18 @@ def tweetTrain(bayesTrainFile, naiveBayesCalculator, emotionSet):
 
 def conversationTrain(conversationTrainfile, emotionCC, emotions):
 	'''should train ecc'''
+	conversations = conversationExtract(conversationTrainfile, emotions)
+	for convo in conversations:
+		prevUsr1Emo = prevUsr2Emo = "START"
+		for msg in convo:
+			if msg.user() == 1:
+				emotionCC.trainSent(msg.eTag(), prevUsr1Emo)
+				emotionCC.trainReceive(msg.eTag(), prevUsr2Emo)
+				prevUsr1Emo = msg.eTag()
+			else:
+				emotionCC.trainSent(msg.eTag(), prevUsr2Emo)
+				emotionCC.trainRecieve(msg.eTag(), prevUsr1Emo)
+				prevUsr2Emo = msg.eTag()
+
+
+
