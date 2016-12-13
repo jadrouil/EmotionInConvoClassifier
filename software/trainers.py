@@ -1,4 +1,5 @@
 from conversationExtract import * 
+from naiveBayesInstance import *
 import csv
 
 def hotwordsTrain(hotwordsFile,naiveBayesCalculator):
@@ -29,7 +30,7 @@ def conversationTrain(conversationTrainfile, emotionCC, emotions):
 				prevUsr1Emo = msg.eTag()
 			else:
 				emotionCC.trainSent(msg.eTag(), prevUsr2Emo)
-				emotionCC.trainRecieve(msg.eTag(), prevUsr1Emo)
+				emotionCC.trainReceive(msg.eTag(), prevUsr1Emo)
 				prevUsr2Emo = msg.eTag()
 
 

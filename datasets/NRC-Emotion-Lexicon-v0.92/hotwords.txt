@@ -1,3 +1,4 @@
+50
 abandon	fear	1
 abandon	sadness	1
 abandoned	anger	1

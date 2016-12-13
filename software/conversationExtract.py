@@ -27,12 +27,12 @@ def conversationExtract(conversationTrainfile, emotions):
                 else:
                     raise RuntimeError('Bad uid')
 
-                if lastUid == 2:
-                    # next user should be 1
-                    assert(uid == 1)
-                else:
-                    # next user should be 2
-                    assert(uid == 2)
+                # if lastUid == 2:
+                #     # next user should be 1
+                #     assert(uid == 1)
+                # else:
+                #     # next user should be 2
+                #     assert(uid == 2)
 
                 lastUid = uid
 
@@ -43,3 +43,4 @@ def conversationExtract(conversationTrainfile, emotions):
                 ))
 
             conversations.append(messages)
+    return conversations

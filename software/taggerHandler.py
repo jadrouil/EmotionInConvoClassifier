@@ -1,7 +1,7 @@
 from taggerFactory import *
-from extract import getConvo
 from outputter import outputter
 from accuracyTracking import accuracyTracker
+from conversationExtract import *
 
 import sys
 
@@ -11,19 +11,16 @@ bayesTrainFile = sys.argv[3]
 hotwordsTrainFile = sys.argv[4]
 testfile = sys.argv[5]
 
-cet = createConversationEmotionTagger(conversationTrainfile, bayesTrainFile, hotwordsTrainFile)
+cet = createConversationEmotionTagger(emotionFile, conversationTrainfile, bayesTrainFile, hotwordsTrainFile)
 
 
 output = outputter(testfile)
 aT = accuracyTracker()
 
-with open(testfile) as testData:
-	convo = getConvo(testData)
-	while convo:
-		result = cet.test(convo)
-		output.write(result, convo)
-		aT.compare(result, convo)
-		convo = getConvo(testData)
+for convo in conversationExtract(testfile, cet._emotions):
+	result = cet.test(convo)
+	output.write(result, convo)
+	aT.compare(result, convo)
 
 
 

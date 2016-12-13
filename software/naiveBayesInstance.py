@@ -2,6 +2,7 @@
 
 class instance:
 	def __init__(self, emotion, context):
-		self.emotion = emotion.lower()
+		if emotion:
+			self.emotion = emotion.lower()
 		self.context = context.split()
 		
