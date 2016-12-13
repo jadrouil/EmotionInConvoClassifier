@@ -9,4 +9,4 @@ class outputter:
 		for i in range(0, len(convo)):
 			msg = convo[i]
 			emo = tags[i]
-			self._f.write("User" + str(msg.user()) + " " + emo + ": " + msg.content())
+			self._f.write("User" + str(msg.user()) + " " + emo + ": " + msg.content() + "\n")
