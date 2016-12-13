@@ -1,0 +1,644 @@
+[
+  {
+    "message": "Well, what's your views on it?", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "1"
+  }, 
+  {
+    "message": "I think it's, uh, a good idea. Um, I grew up, uh, - my teenage years were spent during the sixties, graduating, uh, high school in sixty-eight. Um, I remember when the Peace Corps movement first came about, and I thought it was a very good idea at the time. I was one of those, uh, Kennedy children, if you know what I mean.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "2"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "3"
+  }, 
+  {
+    "message": "And, uh, right now I see a lot of kids who get out of school, have no idea what they want to do.", 
+    "tag": "sadness", 
+    "user": "B", 
+    "message_id": "4"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "5"
+  }, 
+  {
+    "message": "And there's a lot of things out there that we could do, uh, for our own country,", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "6"
+  }, 
+  {
+    "message": "Sure.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "7"
+  }, 
+  {
+    "message": "let alone other countries,", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "8"
+  }, 
+  {
+    "message": "Sure.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "9"
+  }, 
+  {
+    "message": "and I think that we've got the, the people power to do it, it's just, uh, - we need to channel it and focus it on some things that, that need some fixing up. Um, ]", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "10"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "11"
+  }, 
+  {
+    "message": "some examples are this, uh, some of the things, like Jimmy Carter's been involved in, uh, a little program to, you know, fix up housing for people.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "12"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "13"
+  }, 
+  {
+    "message": "And there's a lot of housing,", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "14"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "15"
+  }, 
+  {
+    "message": "a-, I know in the area that I live in, that's run down and beat up, but it could be fixed up and used,", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "16"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "17"
+  }, 
+  {
+    "message": "and it's just, you know, sitting there wasting away.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "18"
+  }, 
+  {
+    "message": "Yeah, we're not too far behind <horn>. I graduated in seventy-one, so I'm, I'm same generation. I, I'm, - it's going to be a short conversation because I agree with you.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "19"
+  }, 
+  {
+    "message": "<Laughter>.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "20"
+  }, 
+  {
+    "message": "I, I think, uh, <horn> I don't, I don't even think it ought to be, uh, voluntary, I think it ought to be mandatory. Uh, for kids to either, either do military service, or public service, one of the two. Uh, a lot of reasons for that, not, not just because I'm a, I'm a hard ass or anything.", 
+    "tag": "disgust", 
+    "user": "A", 
+    "message_id": "21"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "22"
+  }, 
+  {
+    "message": "It's just that, like you say, kids are getting out of high school not knowing what in the heck they're going to do, and either the military or public service organization can give them a lot of focus. And, I think that it might stop us some problems later on. I mean, you know y-, these kids will get their, their heads on straight, and, and figure out what they want to do, instead of hanging around street corners selling drugs or something. Uh, it's, I think it would be good for them, uh, it helps mature them a little bit, and helps them understand the world, the way it really is.", 
+    "tag": "disgust", 
+    "user": "A", 
+    "message_id": "23"
+  }, 
+  {
+    "message": "Yeah, I think a lot of people grow up with, uh, with, uh, preconceived notions li-, what the world's about.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "24"
+  }, 
+  {
+    "message": "Oh, yeah.", 
+    "tag": "disgust", 
+    "user": "A", 
+    "message_id": "25"
+  }, 
+  {
+    "message": "A lot of it has to do from too much T V,", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "26"
+  }, 
+  {
+    "message": "Oh, yeah, yeah.", 
+    "tag": "disgust", 
+    "user": "A", 
+    "message_id": "27"
+  }, 
+  {
+    "message": "and, uh, you know, it's, there's, there's a heck of a lot of difference between, you know, the intake that you get from T V and, and movies, and what you hear in school, and then what reality is.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "28"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "29"
+  }, 
+  {
+    "message": "Uh, I remember, uh, I've, I've worked since I was, - well, I started delivering papers when I was ten, and I had a real job when I was thirteen, so I've, you know, worked most of my life. But I remember when I got out of high school, all through high school was, - boy, I can't wait to get out of high school, I can't wait to get out of high school. And I wanted to go to college, and I had the grades to go to college, and I got accepted to college, but when I got out of high school, I kind of said, you know, what am I going to do now?", 
+    "tag": "sadness", 
+    "user": "B", 
+    "message_id": "30"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "31"
+  }, 
+  {
+    "message": "You know, it's - like, you know, when I actually started working full time, and I, I got married shortly after getting out of high school. I, uh, thought I was smart, ran away and got married,", 
+    "tag": "sadness", 
+    "user": "B", 
+    "message_id": "32"
+  }, 
+  {
+    "message": "<Laughter>.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "33"
+  }, 
+  {
+    "message": "and, uh, I remember there was a time, and within the first year of marriage, I said, boy wouldn't I give to get, be back in school,", 
+    "tag": "sadness", 
+    "user": "B", 
+    "message_id": "34"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "35"
+  }, 
+  {
+    "message": "and just have to do homework, and, and go work my part time job.", 
+    "tag": "sadness", 
+    "user": "B", 
+    "message_id": "36"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "37"
+  }, 
+  {
+    "message": "Because, life, and the reality of working for a living, and trying to make ends meet, is just so overwhelming to someone,", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "38"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "39"
+  }, 
+  {
+    "message": "if they aren't prepared for it.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "40"
+  }, 
+  {
+    "message": "And, and most of them aren't.", 
+    "tag": "disgust", 
+    "user": "A", 
+    "message_id": "41"
+  }, 
+  {
+    "message": "That's true.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "42"
+  }, 
+  {
+    "message": "I mean, you look, you look at the number of marriages that are occurring right ou-, I mean, even in high school, and, you know, y-, you wonder, where are the parents in all of this. You know, why isn't somebody stepping in and, and sto-, putting a stop to this. Kids in high school are just too young to be married.", 
+    "tag": "disgust", 
+    "user": "A", 
+    "message_id": "43"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "44"
+  }, 
+  {
+    "message": "They ha-, they have no idea what the world is like. They don't how tough it is out there to make a living.", 
+    "tag": "disgust", 
+    "user": "A", 
+    "message_id": "45"
+  }, 
+  {
+    "message": "Yeah, a, -", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "46"
+  }, 
+  {
+    "message": "Uh, I mean, I was in the same boat when I left high school. I, my parents wanted me to go straight to college and I didn't. You know, I was ready, I was ready, I had wanderlust, I wanted to get out and see some things. So, I joined the Air Force and ended up staying there for thirteen years.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "47"
+  }, 
+  {
+    "message": "Um.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "48"
+  }, 
+  {
+    "message": "Um, but, I had lived in my own little bubble up until that time, and, and after traveling around the world a few times, I realized that, things ain't the way they seem.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "49"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "50"
+  }, 
+  {
+    "message": "And I, I did a lot of growing up there, uh,", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "51"
+  }, 
+  {
+    "message": "Yeah, I think once, once kids get out and see how other people really live,", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "52"
+  }, 
+  {
+    "message": "Uh-huh. Yeah.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "53"
+  }, 
+  {
+    "message": "and know how bad off some people really are, and how good they've got it,", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "54"
+  }, 
+  {
+    "message": "That's right <throat_clearing>.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "55"
+  }, 
+  {
+    "message": "and what it takes to have that good life,", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "56"
+  }, 
+  {
+    "message": "That's right.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "57"
+  }, 
+  {
+    "message": "a-, if you're willing to work for it,", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "58"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "59"
+  }, 
+  {
+    "message": "then they're probably be more inclined to work for it.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "60"
+  }, 
+  {
+    "message": "Well, you know, it's just like you say, there's so much stuff that needs to be done here in this country, and, uh, you know, if, if you could have a thought of something like, uh, like a, uh, uh, a Peace Corps sort of organization. I mean, this would be so useful, just in, uh, for instance, just helping old folks.", 
+    "tag": "disgust", 
+    "user": "A", 
+    "message_id": "61"
+  }, 
+  {
+    "message": "Uh-huh, exactly.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "62"
+  }, 
+  {
+    "message": "You know, they, you know they need help, they don't have anybody to depend on, and it would be nice to have somebody come over and cut their yard or paint their house, or do minor repairs, or something like that. Y-, -", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "63"
+  }, 
+  {
+    "message": "You know, I've, I've s-, I, - my, my parents are in their late sixties now, and, um, so many of the people that live around them are unable to do those things for themselves anymore.", 
+    "tag": "sadness", 
+    "user": "B", 
+    "message_id": "64"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "65"
+  }, 
+  {
+    "message": "And, it's, it's really hard on them, and the, you know, the thought that I, I see the, uh, the mall rats, you know, walking around the mall, nothing better to do than just walk around the mall all day long, when they could be doing something to help someone. -", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "66"
+  }, 
+  {
+    "message": "Uh-huh. Yeah.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "67"
+  }, 
+  {
+    "message": "And, uh, you know, yo-, there's a, uh, a nice warm feeling, I remember getting out of doing things like that when I was younger,", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "68"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "69"
+  }, 
+  {
+    "message": "I mean, I was a Boy Scout and the whole bit and, -", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "70"
+  }, 
+  {
+    "message": "Yeah, my mom's in the same position, late sixties, and, and it got to the, got to the point where, I mean, me and my brother both were, were gone, and she couldn't maintain the house, without large expenditures of money.", 
+    "tag": "sadness", 
+    "user": "A", 
+    "message_id": "71"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "72"
+  }, 
+  {
+    "message": "You know, it finally got to a point where she just had to sell it and move into an apartment. And, uh, I, I'm not, I'm not saying that that wouldn't have happened anyway, but it would have been nice if there had been somebody to come around and take care of the little things. You know, like the, like the yard work and little repairs, and painting and stuff like that.", 
+    "tag": "sadness", 
+    "user": "A", 
+    "message_id": "73"
+  }, 
+  {
+    "message": "Yeah. I think there'd, there'd be a, you know, a, uh, economic benefit for, you know, everyone concerned,", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "74"
+  }, 
+  {
+    "message": "Oh yeah, sure.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "75"
+  }, 
+  {
+    "message": "those doing the work, and those receiving the, the, uh, the services.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "76"
+  }, 
+  {
+    "message": "Sure, I mean, I mean, the kids who would be giving the service are going to get a lot more out of it than just money.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "77"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "78"
+  }, 
+  {
+    "message": "You know, that, - I, I remember when I was a kid, I used to do little, little things for the old folks around the neighborhood, and, uh, I know how it made me feel. <<pause>> You know, you s-, uh, - peop-, people just don't help people anymore. They're, they're out for themselves and, -", 
+    "tag": "disgust", 
+    "user": "A", 
+    "message_id": "79"
+  }, 
+  {
+    "message": "Yeah. I think, uh, President Bush covered that in his, uh, State of the Union Address this year when he said that, you know, it's time for, you know, the individuals to start thinking about what they can do to help each other out instead of counting on government to do everything.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "80"
+  }, 
+  {
+    "message": "Yeah, well that's, that's the, that's the point we've gotten to, you know. Every time somebody wants something they always turn to the government. And, y-, the government's going to be limited. I, where are they going to get the money? They're going to get it from us. And we can do it a lot more efficiently than the government.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "81"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "82"
+  }, 
+  {
+    "message": "We don't need to add fourteen layers of bureaucracy to a program.", 
+    "tag": "disgust", 
+    "user": "A", 
+    "message_id": "83"
+  }, 
+  {
+    "message": "Exactly.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "84"
+  }, 
+  {
+    "message": "Um, the thing that Carter works on, uh, Habitats For Humanity, I was involved in that w-, uh, in Montgomery, before I came up to North Carolina,", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "85"
+  }, 
+  {
+    "message": "Uh-huh <throat_clearing>.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "86"
+  }, 
+  {
+    "message": "and, uh, it was, it was a pretty neat little program. We'd just go out, and they would buy a plot of land, and contractors and builders, and everybody else would donate their, their time, and, uh, the materials were at cost. And we'd put up houses. And, that was kind, that was kind of neat. I, uh, in a way, I think it's a little bit inefficient, but, but it's better than nothing.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "87"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "88"
+  }, 
+  {
+    "message": "And, and at least I had the opportunity of seeing two families move into decent housing. Um, course, on the other hand, I can start complaining very loudly about people on public assistance who are quite capable of doing something for themselves, but just won't.", 
+    "tag": "disgust", 
+    "user": "A", 
+    "message_id": "89"
+  }, 
+  {
+    "message": "Yes.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "90"
+  }, 
+  {
+    "message": "Because it's far more advantageous for them to sit there and just draw, uh, welfare money than it is to work. Uh, we did a, uh, a cost comparison in one of my courses, and we took all the benefits that a family, that a, a married couple with two kids would get under welfare, and what they would be making at minimum wage. And they came out four thousand dollars better a year, by taking welfare.", 
+    "tag": "disgust", 
+    "user": "A", 
+    "message_id": "91"
+  }, 
+  {
+    "message": "Yes.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "92"
+  }, 
+  {
+    "message": "So there's no incentive for them to do anything. <<pause>> Far better for them to sit on their butts and draw the money.", 
+    "tag": "disgust", 
+    "user": "A", 
+    "message_id": "93"
+  }, 
+  {
+    "message": "Yeah. One of the things they tried to push through in Maryland, and, uh, weren't very successful was that if you were an able-bodied person on welfare,", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "94"
+  }, 
+  {
+    "message": "You had to do something.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "95"
+  }, 
+  {
+    "message": "you had to do some work. And, -", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "96"
+  }, 
+  {
+    "message": "Yeah. A-, an-, and that's been tried, that was tried in Alabama too, and it got shot down.", 
+    "tag": "disgust", 
+    "user": "A", 
+    "message_id": "97"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "98"
+  }, 
+  {
+    "message": "I d-, and I don't understand the reasoning for it. I really don't. It, it seems perfectly logical that if somebody's going to take public money, then they should return something to the public. I mean, if nothing else, go out along an interstate and pick up garbage.", 
+    "tag": "anger", 
+    "user": "A", 
+    "message_id": "99"
+  }, 
+  {
+    "message": "That's exactly what they were trying to get them to do.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "100"
+  }, 
+  {
+    "message": "Yeah. What do they, what do they do in Maryland, do they use highway people or do they use prisoners?", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "101"
+  }, 
+  {
+    "message": "Um, both.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "102"
+  }, 
+  {
+    "message": "Yeah. Tha-, that's the way they did it in Alabama, too.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "103"
+  }, 
+  {
+    "message": "Yeah, they use both.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "104"
+  }, 
+  {
+    "message": "U-, usually you'd see these big chain gangs out there, <laughter> picking up trash.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "105"
+  }, 
+  {
+    "message": "Uh, they have a, they have another program in Maryland that's called Adopt A Highway.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "106"
+  }, 
+  {
+    "message": "Uh-huh, uh-huh. Yeah, we have that here in North Carolina.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "107"
+  }
+]
