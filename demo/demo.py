@@ -1,3 +1,8 @@
+import sys
+sys.path.append('../software')
+
+from message import message
+from taggerFactory import createConversationEmotionTagger
 from flask import Flask, render_template, request
 import json
 
@@ -9,14 +14,27 @@ def hello():
 
 @app.route("/predict", methods=['POST'])
 def predict():
-    conversation = request.get_json(force=True)
+    tagger = createConversationEmotionTagger(
+      emotionFile='../datasets/emotions.txt',
+      conversationTrainfile='../datasets/convo-train.json',
+      bayesTrainFile='../datasets/tweets.csv',
+      hotwordsTrainFile='../datasets/NRC-Emotion-Lexicon-v0.92/hotwords.txt',
+    )
 
-    # TODO: massage data
 
-    # TODO: call external library
-    prediction = 'happy'
+    raw_conversation = request.get_json(force=True)
+    print 'poop'
+    conversation = []
+    for c in raw_conversation:
+        conversation.append(message(
+            content=c['content'],
+            eTag=c['eTag'],
+            userId=c['userId'],
+        ))
 
-    return prediction
+    prediction = tagger.test(conversation)
+
+    return ', '.join(prediction)
 
 if __name__ == "__main__":
     app.run(debug=1)
