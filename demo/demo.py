@@ -3,10 +3,17 @@ sys.path.append('../software')
 
 from message import message
 from taggerFactory import createConversationEmotionTagger
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, current_app
 import json
 
 app = Flask(__name__)
+
+tagger = createConversationEmotionTagger(
+  emotionFile='../datasets/emotions.txt',
+  conversationTrainfile='../datasets/convo-train.json',
+  bayesTrainFile='../datasets/tweets.csv',
+  hotwordsTrainFile='../datasets/NRC-Emotion-Lexicon-v0.92/hotwords.txt',
+)
 
 @app.route("/")
 def hello():
@@ -14,21 +21,13 @@ def hello():
 
 @app.route("/predict", methods=['POST'])
 def predict():
-    tagger = createConversationEmotionTagger(
-      emotionFile='../datasets/emotions.txt',
-      conversationTrainfile='../datasets/convo-train.json',
-      bayesTrainFile='../datasets/tweets.csv',
-      hotwordsTrainFile='../datasets/NRC-Emotion-Lexicon-v0.92/hotwords.txt',
-    )
-
-
+    global tagger
     raw_conversation = request.get_json(force=True)
-    print 'poop'
     conversation = []
     for c in raw_conversation:
         conversation.append(message(
             content=c['content'],
-            eTag=c['eTag'],
+            eTag='',
             userId=c['userId'],
         ))
 

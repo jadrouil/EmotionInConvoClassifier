@@ -26,15 +26,42 @@
 </div>
 
 <script>
-// TODO: actual conversations
 var c1 = [
-{ uid: 1, msg: 'Hello' },
-{ uid: 2, msg: 'How are you?' },
+  {
+    "content": "Wow I am so excited for school to be done!", 
+    "userId": 1
+  }, 
+  {
+    "content": "Me too bro", 
+    "userId": 2
+  },
+  {
+    "content": "What was your favorite class this semester?", 
+    "userId": 1
+  },
+  {
+    "content": "NLP was awesome", 
+    "userId": 2
+  }
 ];
 
 var c2 = [
-{ uid: 1, msg: 'Oh no! Life sucks.' },
-{ uid: 2, msg: 'Sorry :(' },
+  {
+    "content": "This idiot in the library reserved a table but didn't show up",
+    "userId": 1
+  },
+  {
+    "content": "What a jerk",
+    "userId": 2
+  },
+  {
+    "content": "I hate when people abuse the system",
+    "userId": 1
+  },
+  {
+    "content": "Literally awful",
+    "userId": 2
+  }
 ];
 
 var c3 = [
@@ -57,6 +84,7 @@ $(document).ready(function () {
 
     $('#predict').click(function () {
         var convo = $('#convo').val();
+        $('#result').hide();
         $.post('/predict', convo, function (res) {
             $('#result').html('<strong>Conversation emotion:</strong> ' + res).show();
         });
