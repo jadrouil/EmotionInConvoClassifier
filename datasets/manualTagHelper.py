@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+import os.path
 from collections import OrderedDict
 import sys
 import json
@@ -7,6 +8,7 @@ import json
 if len(sys.argv) != 4:
     print 'Usage: ./manualTagHelper.py [dataset] [emotions] [conversation idx]'
     raise RuntimeError()
+
 
 with open(sys.argv[1]) as f:
     raw_conversations = f.read().split('\n\n')
@@ -20,7 +22,12 @@ if idx < 0 or idx >= len(raw_conversations):
     raise RuntimeError()
 
 raw_messages = raw_conversations[idx].split('\n')
-with open('convo-{}.json'.format(idx), 'w') as outfile:
+
+outfile_name = 'convo-{}.json'.format(idx)
+if os.path.isfile(outfile_name):
+    raise RuntimeError('File exists')
+
+with open(outfile_name, 'w') as outfile:
     counter = 0
     messages = []
     j = 0
