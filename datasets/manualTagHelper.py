@@ -4,6 +4,10 @@ from collections import OrderedDict
 import sys
 import json
 
+if len(sys.argv) != 4:
+    print 'Usage: ./manualTagHelper.py [dataset] [emotions] [conversation idx]'
+    raise RuntimeError()
+
 with open(sys.argv[1]) as f:
     raw_conversations = f.read().split('\n\n')
 
