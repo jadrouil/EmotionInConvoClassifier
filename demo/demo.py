@@ -1,5 +1,6 @@
-import sys
-sys.path.append('../software')
+import os, sys
+thisFileDir = os.path.dirname(__file__)
+sys.path.append(os.path.join(thisFileDir, '../software'))
 
 from message import message
 from taggerFactory import createConversationEmotionTagger
@@ -9,10 +10,10 @@ import json
 app = Flask(__name__)
 
 tagger = createConversationEmotionTagger(
-  emotionFile='../datasets/emotions.txt',
-  conversationTrainfile='../datasets/convo-train.json',
-  bayesTrainFile='../datasets/tweets.csv',
-  hotwordsTrainFile='../datasets/NRC-Emotion-Lexicon-v0.92/hotwords.txt',
+  emotionFile=sys.argv[1],
+  conversationTrainfile=sys.argv[2],
+  bayesTrainFile=sys.argv[3],
+  hotwordsTrainFile=sys.argv[4]
 )
 
 @app.route("/")
