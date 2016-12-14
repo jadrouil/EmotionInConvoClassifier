@@ -19,6 +19,21 @@ def createConversationEmotionTagger(emotionFile = "../datasets/emotions.txt", co
 
 	return conversationEmotionTagger(emotionCC, naiveBayesCalculator, emotions)
 
+def createCETconvo(emotionFile = "../datasets/emotions.txt", convos = [], bayesTrainFile = "../datasets/bayesTrain.txt", hotwordsTrainFile = "../datasets/hotwords.txt"):
+	emotions = set([])
+	with open(emotionFile) as emotionF:
+		for line in emotionF:
+			emotions.add(line.strip().lower())
+
+
+	naiveBayesCalculator = naiveBayeser()
+	hotwordsTrain(hotwordsTrainFile, naiveBayesCalculator)
+	tweetTrain(bayesTrainFile, naiveBayesCalculator, emotions)
+
+	emotionCC = emotionConnectionCalculator()
+	structuredConvosTrain(convos, emotionCC, emotions)
+
+	return conversationEmotionTagger(emotionCC, naiveBayesCalculator, emotions)
 
 
 #refactor this to train the calculators directly

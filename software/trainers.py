@@ -17,11 +17,8 @@ def tweetTrain(bayesTrainFile, naiveBayesCalculator, emotionSet):
 		sentence = line[1]
 		for word in sentence:
 			naiveBayesCalculator.train([instance(emo, word)])
-
-def conversationTrain(conversationTrainfile, emotionCC, emotions):
-	'''should train ecc'''
-	conversations = conversationExtract(conversationTrainfile, emotions)
-	for convo in conversations:
+def structuredConvosTrain(convos, emotionCC, emotions):
+	for convo in convos:
 		prevUsr1Emo = prevUsr2Emo = "START"
 		for msg in convo:
 			if msg.user() == 1:
@@ -32,6 +29,15 @@ def conversationTrain(conversationTrainfile, emotionCC, emotions):
 				emotionCC.trainSent(msg.eTag(), prevUsr2Emo)
 				emotionCC.trainReceive(msg.eTag(), prevUsr1Emo)
 				prevUsr2Emo = msg.eTag()
+
+def conversationTrain(conversationTrainfile, emotionCC, emotions):
+	'''should train ecc'''
+	conversations = conversationExtract(conversationTrainfile, emotions)
+	structuredConvosTrain(
+		convos = conversations,
+		emotionCC = emotionCC,
+		emotions = emotions)
+	
 
 
 

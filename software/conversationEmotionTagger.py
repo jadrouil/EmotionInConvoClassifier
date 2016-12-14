@@ -3,6 +3,8 @@ I will create a factory for this class so you can simply call createConversation
 since I will have to modifiy the __init__ function
 '''
 from ViterbiTable import ViterbiTable
+from emotionConnectionCalculator import *
+from trainers import structuredConvosTrain
 
 class conversationEmotionTagger:
 
@@ -12,6 +14,10 @@ class conversationEmotionTagger:
 		self._emotionConnectionCalculator = emotionConnectionCalculator
 		self._emotionMessageCalculator = emotionMessageCalculator
 		self._emotions = emotions
+
+	def resetECC(self, convos):
+		self._emotionConnectionCalculator = emotionConnectionCalculator()
+		structuredConvosTrain(convos, self._emotionConnectionCalculator, self._emotions)
 
 	def test(self, convo):
 		vTable = ViterbiTable(convo, self._emotions)
