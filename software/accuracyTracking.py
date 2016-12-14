@@ -1,8 +1,8 @@
 from collections import defaultdict
 def formResults(emotionsRight, emotionsTotal):
 	results = []
-	for emotion, numCorrect in emotionsRight.items():
-		results.append((emotion, numCorrect / emotionsTotal[emotion] * 100))
+	for emotion, total in emotionsTotal.items():
+		results.append((emotion, emotionsRight[emotion] / total  * 100))
 	return results
 
 
@@ -37,7 +37,7 @@ class accuracyTracker:
 			self._rightForEmotion[emo] += count
 		self._rightForEmotionFold = defaultdict(lambda: 0.0)
 
-	def compareFold(result, convo):
+	def compareFold(self, result, convo):
 		assert(len(result) == len(convo))
 
 		for i in range(0, len(result)):

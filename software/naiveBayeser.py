@@ -7,9 +7,9 @@ class naiveBayeser:
 		self._dataCollector = dataCollector()
 
 		
-	def train(self, listOfInstances):
+	def train(self, listOfInstances, weight = 1.0):
 		for instance in listOfInstances:
-			self._dataCollector.add(instance)
+			self._dataCollector.add(instance, weight)
 
 	def test(self, instance, emotion):
 		return self._dataCollector.calcProb(emotion, instance)

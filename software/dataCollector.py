@@ -16,13 +16,13 @@ class dataCollector:
 		return (self._countOfSense[sense] + 1.0) / (self._totalInstanceCount + len(self._countOfSense))
 	def _probFeatureGivenSense(self, feat, sense):
 		return (self._occurencesOfFeatureForSense[sense][feat] + 1.0) / (self._numFeaturesForSense[sense] + len(self._occurencesOfFeatureForSense[sense]))
-	def add(self, instance):
-		self._totalInstanceCount += 1.0
-		self._countOfSense[instance.emotion] += 1.0
+	def add(self, instance, weight = 1.0):
+		self._totalInstanceCount += weight
+		self._countOfSense[instance.emotion] += weight
 
 		for feature in instance.context:
-			self._numFeaturesForSense[instance.emotion] += 1.0
-			self._occurencesOfFeatureForSense[instance.emotion][feature] += 1.0
+			self._numFeaturesForSense[instance.emotion] += weight
+			self._occurencesOfFeatureForSense[instance.emotion][feature] += weight
 	def calcProb(self, sense, instance):
 		probabilityOfFeatureGivenSense = [self._probFeatureGivenSense(feat, sense) for feat in instance.context]
 		probabilityOfSense = reduce(calculateLogBayesProb, probabilityOfFeatureGivenSense, math.log(self._probSense(sense)))

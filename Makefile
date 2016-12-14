@@ -1,4 +1,12 @@
-.PHONY: test demo
+.PHONY: test demo folds
+folds:
+	python software/taggerHandler.py \
+		datasets/emotions.txt \
+		datasets/convo-all.json \
+		datasets/tweets.csv \
+		datasets/hotwords.txt \
+		5
+
 test:
 	python software/taggerHandler.py \
 		datasets/emotions.txt \

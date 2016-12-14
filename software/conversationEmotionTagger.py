@@ -15,9 +15,10 @@ class conversationEmotionTagger:
 		self._emotionMessageCalculator = emotionMessageCalculator
 		self._emotions = emotions
 
-	def resetECC(self, convos):
+	def resetECC(self, convosFold):
 		self._emotionConnectionCalculator = emotionConnectionCalculator()
-		structuredConvosTrain(convos, self._emotionConnectionCalculator, self._emotions)
+		for convos in convosFold:	
+			structuredConvosTrain(convos, self._emotionConnectionCalculator, self._emotions)
 
 	def test(self, convo):
 		vTable = ViterbiTable(convo, self._emotions)

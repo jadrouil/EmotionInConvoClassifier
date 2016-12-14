@@ -32,9 +32,11 @@ def fold(numFolds = 5):
 	bayesTrainFile = sys.argv[3]
 	hotwordsTrainFile = sys.argv[4]
 
-	folder = dataFolder(conversationsFile, numFolds)
 
 	cet = createCETconvo(emotionFile, [], bayesTrainFile, hotwordsTrainFile)
+	folder = dataFolder(conversationsFile, numFolds, cet._emotions)
+
+
 	aT = accuracyTracker()
 	for i in range(0, numFolds):
 		print "FOLD NUMBER: ", i 

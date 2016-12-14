@@ -7,7 +7,7 @@ def hotwordsTrain(hotwordsFile,naiveBayesCalculator):
 		hotWeight = int(hotwordsF.readline())
 		for line in hotwordsF:
 			word,emotion,bs = line.split()
-			naiveBayesCalculator.train([instance(emotion, word)] * hotWeight)
+			naiveBayesCalculator.train([instance(emotion, word)], hotWeight)
 
 def tweetTrain(bayesTrainFile, naiveBayesCalculator, emotionSet):
 	for line in csv.reader(open(bayesTrainFile)):
@@ -37,7 +37,7 @@ def conversationTrain(conversationTrainfile, emotionCC, emotions):
 		convos = conversations,
 		emotionCC = emotionCC,
 		emotions = emotions)
-	
+
 
 
 
