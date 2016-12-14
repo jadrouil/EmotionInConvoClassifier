@@ -13,3 +13,6 @@ demo:
 		datasets/convo-train.json \
 		datasets/tweets.csv \
 		datasets/hotwords.txt
+clean:
+	rm */*.out
+	rm */*.pyc
