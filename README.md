@@ -1,5 +1,5 @@
 # Emotion Tagger
-EECS 498 NLP Term Project
+EECS 498 NLP Term Project<br>
 mdobro@umich.edu, quincyd@umich.edu, jadrouil@umich.edu, mterwil@umich.edu
 
 ## Introduction
