@@ -1,0 +1,866 @@
+[
+  {
+    "message": "Well, I am new to Texas, so I don't even know what the law is,", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "1"
+  }, 
+  {
+    "message": "Uh-huh?", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "2"
+  }, 
+  {
+    "message": "in the state, do you?", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "3"
+  }, 
+  {
+    "message": "Well, yes, of course, we do have capital punishment. And we've, you know, done away with our, quote, fair share number.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "4"
+  }, 
+  {
+    "message": "Oh, that's right, I think now, that I recall, reading about it in the paper.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "5"
+  }, 
+  {
+    "message": "Yes.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "6"
+  }, 
+  {
+    "message": "Um, you know, different things, - is it restricted to certain crimes? Or just, -", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "7"
+  }, 
+  {
+    "message": "Yes, it's certain crimes, uh, capital crimes, murder, of course, uh, rape,", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "8"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "9"
+  }, 
+  {
+    "message": "this sort of thing.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "10"
+  }, 
+  {
+    "message": "Um. Well. -", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "11"
+  }, 
+  {
+    "message": "It seems to be a disproportionate number of blacks, you know, that get into the system.", 
+    "tag": "sadness", 
+    "user": "B", 
+    "message_id": "12"
+  }, 
+  {
+    "message": "Yes, I know, the one thing that I think is really sad about it, as I recall, from the articles that I've read, is that if, if people who have been there, <throat_clearing> are going to be killed. - Um, there's people that come to the prisons and they're very violent and, they want, I mean they're anxious for someone to be killed <child>.", 
+    "tag": "sadness", 
+    "user": "A", 
+    "message_id": "13"
+  }, 
+  {
+    "message": "Uh-huh. Yes.", 
+    "tag": "sadness", 
+    "user": "B", 
+    "message_id": "14"
+  }, 
+  {
+    "message": "I just, I can't see that.", 
+    "tag": "sadness", 
+    "user": "A", 
+    "message_id": "15"
+  }, 
+  {
+    "message": "That happens on occasion, it sure does,", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "16"
+  }, 
+  {
+    "message": "<Throat_clearing>.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "17"
+  }, 
+  {
+    "message": "maybe it just depends on, you know, how closely the crime, you know,", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "18"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "19"
+  }, 
+  {
+    "message": "has affected you personally. You know, I don't know, or a person personally.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "20"
+  }, 
+  {
+    "message": "No.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "21"
+  }, 
+  {
+    "message": "I think I would be, you know, - I guess, really if I had to say yes or no, I guess I would say, you know, that I am in certain cases, in favor of the death penalty, I don't know that it's a big deterrent really. I don't know that it is. I don't know how we'd ever find out, you know, really whether it is or not.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "22"
+  }, 
+  {
+    "message": "Well, there is so many chances for appeal, that it kee-, -", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "23"
+  }, 
+  {
+    "message": "Oh, yeah, oh, absolutely, yeah, it goes on for years and years, and costs hundreds of thousands of dollars, taxpayer money.", 
+    "tag": "anger", 
+    "user": "B", 
+    "message_id": "24"
+  }, 
+  {
+    "message": "Ye-, it's really sad.", 
+    "tag": "sadness", 
+    "user": "A", 
+    "message_id": "25"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "26"
+  }, 
+  {
+    "message": "I don't know, I just think, um, - somehow I hoped that as a people we could be better than, than, um, expecting,", 
+    "tag": "anger", 
+    "user": "A", 
+    "message_id": "27"
+  }, 
+  {
+    "message": "Yes.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "28"
+  }, 
+  {
+    "message": "the feeling that it - with, - someone is calling for someone else to be killed, you know.", 
+    "tag": "anger", 
+    "user": "A", 
+    "message_id": "29"
+  }, 
+  {
+    "message": "Yes, uh-huh.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "30"
+  }, 
+  {
+    "message": "Is really kind of bad <child>.", 
+    "tag": "anger", 
+    "user": "A", 
+    "message_id": "31"
+  }, 
+  {
+    "message": "Yes it is. It's a tough, tough question. It really is.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "32"
+  }, 
+  {
+    "message": "Um.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "33"
+  }, 
+  {
+    "message": "I suspect I would be, uh, you know, a lot more favor of it if, you know, one of my children were, you know, brutally killed, or something like that. Like I say, I think it depends on how personally affected, you know, you might be by it.", 
+    "tag": "anger", 
+    "user": "B", 
+    "message_id": "34"
+  }, 
+  {
+    "message": "That's true and there really are criminals that are hard-core and,", 
+    "tag": "disgust", 
+    "user": "A", 
+    "message_id": "35"
+  }, 
+  {
+    "message": "Oh, absolutely.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "36"
+  }, 
+  {
+    "message": "repeat, and never have any chance for, -", 
+    "tag": "disgust", 
+    "user": "A", 
+    "message_id": "37"
+  }, 
+  {
+    "message": "Tha-, that's right.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "38"
+  }, 
+  {
+    "message": "Oh, I don't know, is it, - do you feel at all like, it's a religious issue?", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "39"
+  }, 
+  {
+    "message": "Not with me personally. It is with a lot of other people.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "40"
+  }, 
+  {
+    "message": "<Throat_clearing> Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "41"
+  }, 
+  {
+    "message": "It's not, not to me personally, no.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "42"
+  }, 
+  {
+    "message": "Um.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "43"
+  }, 
+  {
+    "message": "No.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "44"
+  }, 
+  {
+    "message": "I don't know, sometimes I feel, - I mean I do go to church and things. I don't know how I would feel about it. But like you say, if it hit you personally,", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "45"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "46"
+  }, 
+  {
+    "message": "closer at home you would feel, +", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "47"
+  }, 
+  {
+    "message": "Yes.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "48"
+  }, 
+  {
+    "message": "feel differently.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "49"
+  }, 
+  {
+    "message": "That's a, it's a tough, tough question, it really is.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "50"
+  }, 
+  {
+    "message": "Do you think most states have that or? <child>. -", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "51"
+  }, 
+  {
+    "message": "Yes, I think most states do have capital punishment. Yes.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "52"
+  }, 
+  {
+    "message": "Uh-huh, huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "53"
+  }, 
+  {
+    "message": "But, I think the U S is one of the few countries that still do.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "54"
+  }, 
+  {
+    "message": "That still does it, that's right.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "55"
+  }, 
+  {
+    "message": "Yes, they're only, - I was reading something about it the other day, I think there was only like six or eight countries in the world, that have capital punishment still.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "56"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "57"
+  }, 
+  {
+    "message": "A lot of them had to have el-, elected not to do so. Now I don't know, what they do in place of it. You know, maybe it's life in prisonment or, you know, something, I don-, I don't know how they handle it bu-, I was surprised to learn that so few countries have capital punishment.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "58"
+  }, 
+  {
+    "message": "Have that. Well, and it doesn't seem like very many people, uh, are really, - I mean, there's a lot of people that are on death row.", 
+    "tag": "sadness", 
+    "user": "A", 
+    "message_id": "59"
+  }, 
+  {
+    "message": "Oh, yes.", 
+    "tag": "sadness", 
+    "user": "B", 
+    "message_id": "60"
+  }, 
+  {
+    "message": "But there's not very many people that actually, um. do get killed.", 
+    "tag": "sadness", 
+    "user": "A", 
+    "message_id": "61"
+  }, 
+  {
+    "message": "Yes, a lot of them do get their sentences commuted to something else.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "62"
+  }, 
+  {
+    "message": "Uh-huh. So, it seems like a of people live there, and then through appeals. -", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "63"
+  }, 
+  {
+    "message": "Yes.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "64"
+  }, 
+  {
+    "message": "Because I know they do frequently, - I mean they cover, cover it pretty heavily on television and the newspaper.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "65"
+  }, 
+  {
+    "message": "Uh-huh. Yes.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "66"
+  }, 
+  {
+    "message": "If it finally gets to that point.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "67"
+  }, 
+  {
+    "message": "Right, the first appeal is automatic, so that delays it for a few years just right off the bat.", 
+    "tag": "anger", 
+    "user": "B", 
+    "message_id": "68"
+  }, 
+  {
+    "message": "Yeah.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "69"
+  }, 
+  {
+    "message": "There's, there's a lot of, you know, last minute, uh, <sniffing> things that happen cause a person not to,", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "70"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "71"
+  }, 
+  {
+    "message": "have to go through the whole thing.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "72"
+  }, 
+  {
+    "message": "Uh-huh. So is it, uh, - are we doing lethal injection now?", 
+    "tag": "disgust", 
+    "user": "A", 
+    "message_id": "73"
+  }, 
+  {
+    "message": "Yes, uh-huh. That's, that's fairly recent, I don't know, how recent, but fairly recent, in the state of Texas. Before that, it was, uh, death by electrocution.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "74"
+  }, 
+  {
+    "message": "Uh-huh, wh-, which seems so awful.", 
+    "tag": "disgust", 
+    "user": "A", 
+    "message_id": "75"
+  }, 
+  {
+    "message": "Yes, it certainly does.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "76"
+  }, 
+  {
+    "message": "So, it's a little bit more humane, I guess, it is, -", 
+    "tag": "disgust", 
+    "user": "A", 
+    "message_id": "77"
+  }, 
+  {
+    "message": "Yes, it would almost have to be, I suppose. If you, if you had to chose, I guess I would, I am sure I would take the lethal injection.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "78"
+  }, 
+  {
+    "message": "<Laughter> Yes, the other one just seems so terrible.", 
+    "tag": "disgust", 
+    "user": "A", 
+    "message_id": "79"
+  }, 
+  {
+    "message": "Yes, absolutely.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "80"
+  }, 
+  {
+    "message": "Um.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "81"
+  }, 
+  {
+    "message": "It's a, it's a tough question. It really is. I guess, if I had to say yes or no, I would say, you know, yes. I, I would have to lean toward capital punishment, you know, for certain crimes.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "82"
+  }, 
+  {
+    "message": "Well, do you think that we do it because we want it to deter crime or, it's not because we don't want to pay for inmates to stay in prison?", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "83"
+  }, 
+  {
+    "message": "No, I don't think it's a monetary thing.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "84"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "85"
+  }, 
+  {
+    "message": "I think, - we hope that it will be, you know, some sort of determ-, deterrent or, you know, an eye for an eye type thing, or something like that.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "86"
+  }, 
+  {
+    "message": "Um.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "87"
+  }, 
+  {
+    "message": "Some of the crimes are just so brutal and so, you know, useless. This may seem to be the best way out. I don't know.", 
+    "tag": "anger", 
+    "user": "B", 
+    "message_id": "88"
+  }, 
+  {
+    "message": "Yes.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "89"
+  }, 
+  {
+    "message": "Easiest way out maybe. No, I don't think it's a monetary thing.", 
+    "tag": "anger", 
+    "user": "B", 
+    "message_id": "90"
+  }, 
+  {
+    "message": "Um. Well, um, and I notice that the crime rate was up in the Dallas area <throat_clearing>. It's, +", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "91"
+  }, 
+  {
+    "message": "Yes, especially the murder rate, its just gone crazy.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "92"
+  }, 
+  {
+    "message": "It's kind of been scary,", 
+    "tag": "fear", 
+    "user": "A", 
+    "message_id": "93"
+  }, 
+  {
+    "message": "Yes.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "94"
+  }, 
+  {
+    "message": "to think about it and, +", 
+    "tag": "fear", 
+    "user": "A", 
+    "message_id": "95"
+  }, 
+  {
+    "message": "Absolutely.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "96"
+  }, 
+  {
+    "message": "And you're hoping there is something that will cut down on that.", 
+    "tag": "fear", 
+    "user": "A", 
+    "message_id": "97"
+  }, 
+  {
+    "message": "Yes, I wish I had the answer for that, everybody does.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "98"
+  }, 
+  {
+    "message": "You hate to have the dubious honor of being, you know, so high in the, +", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "99"
+  }, 
+  {
+    "message": "Yes, it's nothing to be proud of,", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "100"
+  }, 
+  {
+    "message": "in statistics,", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "101"
+  }, 
+  {
+    "message": "certainly not.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "102"
+  }, 
+  {
+    "message": "But I, you know, - we have been really fortunate our family,", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "103"
+  }, 
+  {
+    "message": "Yes.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "104"
+  }, 
+  {
+    "message": "hasn't had any crime.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "105"
+  }, 
+  {
+    "message": "Yes, so have we been very, very fortunate.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "106"
+  }, 
+  {
+    "message": "And, so we don't, - it's harder to think about the poor people that have suffered that way.", 
+    "tag": "sadness", 
+    "user": "A", 
+    "message_id": "107"
+  }, 
+  {
+    "message": "That's right. Absolutely.", 
+    "tag": "sadness", 
+    "user": "B", 
+    "message_id": "108"
+  }, 
+  {
+    "message": "And how they would expect, +", 
+    "tag": "sadness", 
+    "user": "A", 
+    "message_id": "109"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "110"
+  }, 
+  {
+    "message": "how they would hope, - I mean you, you hear of people who have, um, committed crimes, and then they get out of jail and they go, and they do the same thing again.", 
+    "tag": "anger", 
+    "user": "A", 
+    "message_id": "111"
+  }, 
+  {
+    "message": "Absolutely.", 
+    "tag": "anger", 
+    "user": "B", 
+    "message_id": "112"
+  }, 
+  {
+    "message": "And you wonder why they can't just stop it.", 
+    "tag": "anger", 
+    "user": "A", 
+    "message_id": "113"
+  }, 
+  {
+    "message": "Uh-huh. That's right.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "114"
+  }, 
+  {
+    "message": "So, maybe you would, -", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "115"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "116"
+  }, 
+  {
+    "message": "but still I would hate to be on the jury that sentenced someone.", 
+    "tag": "sadness", 
+    "user": "A", 
+    "message_id": "117"
+  }, 
+  {
+    "message": "So would I, - I fortunately, I have never been in that circumstance, I hope I never am, like, like everybody else.", 
+    "tag": "sadness", 
+    "user": "B", 
+    "message_id": "118"
+  }, 
+  {
+    "message": "No, <laughter> I know when, um, - we just, we moved here, uh, I from the, I got a summons, jury summons, ]", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "119"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "120"
+  }, 
+  {
+    "message": "just like constantly, it seemed like,", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "121"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "122"
+  }, 
+  {
+    "message": "but fortunately I had small children and I didn't have to go.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "123"
+  }, 
+  {
+    "message": "Right.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "124"
+  }, 
+  {
+    "message": "And it's not that, I mean, I think everyone should have to serve on the jury,", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "125"
+  }, 
+  {
+    "message": "Uh-huh.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "126"
+  }, 
+  {
+    "message": "it's just that, I didn't, - I hate having to be in charge of someone else's life.", 
+    "tag": "anger", 
+    "user": "A", 
+    "message_id": "127"
+  }, 
+  {
+    "message": "Sure, it's, it's a big responsibility, it really is.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "128"
+  }, 
+  {
+    "message": "And I would hate to have to hear any kind of case,", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "129"
+  }, 
+  {
+    "message": "Yes.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "130"
+  }, 
+  {
+    "message": "involving a violent crime or anything.", 
+    "tag": "disgust", 
+    "user": "A", 
+    "message_id": "131"
+  }, 
+  {
+    "message": "So would I.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "132"
+  }, 
+  {
+    "message": "That would be really awful.", 
+    "tag": "disgust", 
+    "user": "A", 
+    "message_id": "133"
+  }, 
+  {
+    "message": "Yes. Absolutely.", 
+    "tag": "disgust", 
+    "user": "B", 
+    "message_id": "134"
+  }, 
+  {
+    "message": "Well, anyway, I sure have enjoyed, uh, talking to you about this. Although it has been difficult but, uh. -", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "135"
+  }, 
+  {
+    "message": "It is, it's a tough subject, it really is.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "136"
+  }, 
+  {
+    "message": "I'd hate to decide it, but I guess, uh, guess it's important,", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "137"
+  }, 
+  {
+    "message": "Right.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "138"
+  }, 
+  {
+    "message": "that we decide as a people what, what we're going to do.", 
+    "tag": "neutral", 
+    "user": "A", 
+    "message_id": "139"
+  }, 
+  {
+    "message": "That's right.", 
+    "tag": "neutral", 
+    "user": "B", 
+    "message_id": "140"
+  }, 
+  {
+    "message": "Anyway, well, you have a good day.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "141"
+  }, 
+  {
+    "message": "Well, thank you, it's nice talking to you.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "142"
+  }, 
+  {
+    "message": "Thank you, bye-bye.", 
+    "tag": "enjoyment", 
+    "user": "A", 
+    "message_id": "143"
+  }, 
+  {
+    "message": "Uh-huh. Bye-bye.", 
+    "tag": "enjoyment", 
+    "user": "B", 
+    "message_id": "144"
+  }
+]
